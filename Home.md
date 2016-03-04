@@ -5,25 +5,25 @@
 ## Out Zone
 
 ### **Members**
-_Xavier Olivenza's accounts _
+_Xavier Olivenza's accounts_
 * Code.
 * Github: xavierolivenza.
 * Trello: Xavier Olivenza Busquets.
 * Slack: xavier.olivenza.
 
-_Nicolas Babot's accounts _
+_Nicolas Babot's accounts_
 * Management.
 * Github: nicobabot.
 * Trello: nicobabot.
 * Slack: nicobabot.
 
-_Daniel Olondriz's accounts _
+_Daniel Olondriz's accounts_
 * Art.
 * Github: TheDriXx.
 * Trello: danielolondrizrosique.
 * Slack: daniel.olondriz.
 
-_Sergio Alvarez's accounts _
+_Sergio Alvarez's accounts_
 * Design/QA.
 * Github: Sergio111.
 * Trello: sergio74667352.
