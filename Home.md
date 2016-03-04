@@ -41,7 +41,7 @@ _Daniel Olondriz's accounts_
 
 ### Index
 * [General Analysis](https://github.com/nicobabot/OutZone_AlchemistStudio/wiki/General-Analysis)
-* Design
+* [Design](https://github.com/nicobabot/OutZone_AlchemistStudio/wiki/Design)
 * [UI](https://github.com/nicobabot/OutZone_AlchemistStudio/wiki/UI)
-* Audio
+* [Audio](https://github.com/nicobabot/OutZone_AlchemistStudio/wiki/Audio)
 * [Art](https://github.com/nicobabot/OutZone_AlchemistStudio/wiki/Art)
