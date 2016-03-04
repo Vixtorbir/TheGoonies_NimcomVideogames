@@ -9,6 +9,7 @@ Out Zone
 ## Game Description
 
 TODO:
+![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Welcome%20Page/11291.jpg)
 
 ### **Members**
 
