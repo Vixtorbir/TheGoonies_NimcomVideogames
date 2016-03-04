@@ -6,6 +6,10 @@
 
 Out Zone
 
+## Game Description
+
+TODO:
+
 ### **Members**
 
 _Sergio Alvarez's accounts_
