@@ -1,5 +1,5 @@
 # Alchemist Studio
-
+![Alchemist Studio logo](![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/Logo/OutZoneLogo.jpg?raw=true))
 
 ## Out Zone
 
