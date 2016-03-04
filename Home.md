@@ -44,4 +44,4 @@ _Daniel Olondriz's accounts_
 * [Design](https://github.com/nicobabot/OutZone_AlchemistStudio/wiki/Design)
 * UI
 * Audio
-* Art
+* [Art](https://github.com/nicobabot/OutZone_AlchemistStudio/wiki/Art)
