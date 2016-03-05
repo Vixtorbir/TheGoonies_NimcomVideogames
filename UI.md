@@ -18,6 +18,30 @@ If you enter one coin you have to choose if you want to play one or two players.
 
 Explanation of the mission of the game.
 
+![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0014.png?raw=true)
+
+If the user don't enter a coin will start the game demonstration to show how will be the game.
+
+![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0012.png)
+
+If the user want to play with somebody can click the bottom 2 of the keyboard (if he is playing in pc) and the second main character will appear in another colour.
+
+![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0018.png)
+
+If the user is a lot of time in the same place it will appear a notice that tells the user to go ahead.
+
+![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/21_Out-Zone_ingame-17.jpg)
+
+In game you will find this properties.
+
+![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0016.png)
+
+![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0021.png)
+
+When the user is losing all of his energy it will appear one notice telling him that he is about to die. If he loses all the energy he is going to die.
+
+
+
 ![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0007.png)
 
 Game over screen. This screen appears when the user loses all the lives.
@@ -25,10 +49,6 @@ Game over screen. This screen appears when the user loses all the lives.
 ![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0008.png)
 
 After the game over you can save your punctuation and enter in the list of the best punctuations.
-
-![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0012.png)
-
-If the user finish the game will find the final screen.
 
 ![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/Gamefinal1v.1.jpg)
 
