@@ -9,7 +9,7 @@ Out Zone
 
 ## Game Description
 
-Outzone is a shoot'em up game developed by Toaplan in 1990 with seven levels of vertical scrolling, containing many different enemies and a boss at the end of each level. The game is a never-ending loop, when you finish the game, it restars with increased difficulty.
+Outzone is a shoot'em up game developed by Toaplan in 1990 with seven levels of vertical scrolling, containing many different enemies and a boss at the end of each level, when it is defeated, you can advance to the next level, with difficulty increased.The game is a never-ending loop, when you finish the game, it restars with increased difficulty.
 ![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Welcome%20Page/11291.jpg)
 
 ### **Members**
