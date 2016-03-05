@@ -23,19 +23,19 @@ Below is the list of files with their respective title, the ones with "", means 
 19. outzone_019: Dead effect sound.
 20. outzone_020: Title sound effect.
 21. outzone_021: Bomb sound effect (1UP).
-22. outzone_022:"" Bonus points.
+22. outzone_022: ""Bonus points.
 23. outzone_023: Power Up // Change gun.
 24. outzone_024: More energy.
 25. outzone_025:
 26. outzone_026: ""Super Ball 
 27. outzone_027:
-28. outzone_028:"" 1st boss dead sound effect.
+28. outzone_028: ""1st boss dead sound effect.
 29. outzone_029: 2nd boss dead sound effect. // 4rth boss dead sound effect.// six boss dead sound effect
 30. outzone_030:
 31. outzone_031: 3rd boss dead sound effect.
 32. outzone_032: Title sound effect 2.
 33. outzone_033: ""Little alien death
-34. outzone_034:""boss 5 shot
+34. outzone_034: ""boss 5 shot
 35. outzone_035: Sound effect of the blue laser of the 3rd boss.
 36. outzone_036: Ground Cut of 3rd boss.
 37. outzone_037: ""Smallest lava appears sound effect. // ""5 boss dead sound effect.
@@ -45,7 +45,7 @@ Below is the list of files with their respective title, the ones with "", means 
 41. outzone_041: Gun three shoots sound effect. // 4rth boss missiles
 42. outzone_042
 43. outzone_043: Boss six when blue arms are extended.
-44. outzone_044:"" Boss 7,  laser sword
+44. outzone_044: ""Boss 7,  laser sword
 45. outzone_045: ""Boss 7, when player hits him
 46. outzone_046:
 47. outzone_047: Out Zone arrange Version
