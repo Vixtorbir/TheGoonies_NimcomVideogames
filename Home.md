@@ -11,7 +11,9 @@ Out Zone
 ## Game Description
 
 Outzone is a shoot'em up game developed by Toaplan in 1990 with seven levels of vertical scrolling, containing many different enemies and a boss at the end of each level, when it is defeated, you can advance to the next level, with difficulty increased. 
+
 The plot happens in 2097, mankind is invaded by an alien force from the planet Owagira, and it is up to cyborg soldiers to destroy the invasion force.
+
 The game is endless, when you finish the game, it restarts to the first stage with increased difficulty, so the game allow the player to keep playing until he die, repeating over and over again the seven stages.
 
 ![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Welcome%20Page/11291.jpg)
