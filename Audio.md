@@ -48,6 +48,6 @@ Below is the list of files with their respective title, the ones with "", means 
 44. outzone_044:"" Boss 7,  laser sword
 45. outzone_045: ""Boss 7, when player hits him
 46. outzone_046:
-47. outzone_047: OUT ZONE ARRANGE VERSION
+47. outzone_047: Out Zone arrange Version
 47. outzone_048:                         
 49. outzone_049
