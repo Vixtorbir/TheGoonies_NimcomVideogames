@@ -4,6 +4,7 @@
 _Alchemist Studio logo_
 
 ## Game Title
+![](http://outzone.meodai.ch/images/outzone_logo.gif)
 
 Out Zone
 
