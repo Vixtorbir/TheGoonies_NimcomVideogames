@@ -2,16 +2,16 @@ In the following link you can find the folder with all the sound effects and mus
 [Out Zone: Music and sound effect](https://github.com/nicobabot/OutZone_AlchemistStudio/tree/master/OutZone_Music)
 Below is the list of files with their respective title, the ones with "", means that we are not 100% sure that it is the correct sound:
 
-01. outzone_001 : Coin sound effect.
-02. outzone_002: Chapter Ⅰ Directive ～ to the earth
-03. outzone_003: Chapter Ⅰ Directive ～ to the earth ( Version 1.1 )
-04. outzone_004: Chapter Ⅴ Mystery of Owagira
-05. outzone_005: Chapter Ⅵ A little more, Wham
-06. outzone_006: Dai 1 Shou Shirei - Chikyu-e (Ver.1.2) (Level 1).
-07. outzone_007: Chapter Ⅳ Soldier like flying
-08. outzone_008: Chapter Ⅱ Gift of the bullet to guys
-09. outzone_009: Chapter Ⅲ Working people of O･Z
-10. outzone_010: Chapter Ⅶ The last laugh
+**01.** outzone_001 : Coin sound effect.
+**02.** outzone_002: Chapter Ⅰ Directive ～ to the earth
+**03.** outzone_003: Chapter Ⅰ Directive ～ to the earth ( Version 1.1 )
+**04.** outzone_004: Chapter Ⅴ Mystery of Owagira
+**05.** outzone_005: Chapter Ⅵ A little more, Wham
+**06.** outzone_006: Dai 1 Shou Shirei - Chikyu-e (Ver.1.2) (Level 1).
+**07.** outzone_007: Chapter Ⅳ Soldier like flying
+**08.** outzone_008: Chapter Ⅱ Gift of the bullet to guys
+**09.** outzone_009: Chapter Ⅲ Working people of O･Z
+**10.** outzone_010: Chapter Ⅶ The last laugh
 11. outzone_011: Game Over
 12. outzone_012: Eternal life ( Name Entry )
 13. outzone_013: To tomorrow ( Continue )
