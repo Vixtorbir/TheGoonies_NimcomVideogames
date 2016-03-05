@@ -55,3 +55,4 @@ After the game over you can save your punctuation and enter in the list of the b
 ![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/Gamefinal2v.1.jpg)
 
 If the user finish the game will find the final screen.
+The message shown in Japanese says something like: "Problems. But complete. Well done on this mission." "After me to challenge the limits aim higher score.".
