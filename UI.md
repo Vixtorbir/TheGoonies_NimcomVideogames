@@ -30,8 +30,8 @@ After the game over you can save your punctuation and enter in the list of the b
 
 If the user finish the game will find the final screen.
 
-![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0014.png)
+![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/gamefinal1.png)
 
-![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0015.png)
+![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/gamefinal2.png)
 
 If the user finish the game will find the final screen.
