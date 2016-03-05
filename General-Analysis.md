@@ -1,3 +1,4 @@
+![Outzone cabinet sign](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/General%20Analysis/1181242142240.png)
 # Genre
 Out Zone is a shoot’em up game, a genre where the player engages in a lone assault, often in a spacecraft or aircraft, shooting large numbers of enemies while dodging their attacks. This genre requires fast reactions and memorize levels and enemy attack patterns. Some games of this genre have Bullet hell moments or are Bullet hell games, Bullet hell is a genre where the player have a huge amount of enemy projectiles to avoid.
 The first game of this genre is Spacewar, developed in 1961, but is generally credited that Space Invaders, developed in 1978, was the start of the genre.
