@@ -1,1 +1,8 @@
-TODO:
+# Genre
+Out Zone is a shoot’em up game, a genre where the player engages in a lone assault, often in a spacecraft or aircraft, shooting large numbers of enemies while dodging their attacks. This genre requires fast reactions and memorize levels and enemy attack patterns. Some games of this genre have "Bullet hell" moments, "Bullet hell" is a genre where the player have a huge amount of enemy staff to avoid for don’t be defeated.
+The first game of this genre is Spacewar, developed in 1961, but is generally credited that Space Invaders, developed in 1978, was the start of the genre.
+Shoot 'em ups were popular throughout the 1980s and early 1990s. In the mid-1990s, shoot 'em ups became a niche genre.
+Between all the shoot’em ups subgenres, Out Zone is a Run and Gun (or “run ‘n’ gun”), it’s a genre where the player fights on foot, perhaps with the ability to jump. In this genre you can have horizontal, vertical scrolling or isometric viewpoints and may feature multidirectional movement.
+# History
+Out Zone is an arcade game developed by Toaplan and published by Romstar in 1990. Out Zone used an Upright cabinet with controls for 2 players, a Motorola 68000(10MHz) or a Zilog Z80(3,5MHz) CPU, A Yamaha YM3812(3,5MHz) sound chip and a raster resolution of 240x320(horizontal x vertical). Music was composed by Tatsuya Uemura.
+Out Zone is a run and gun arcade game with vertical scrolling where the player must fight on foot through seven levels with a boss at the end of each one. To defeat the enemies, the player can use the standard weapons, one of single shot and the other with triple shot, he can switch between them with the ‘C’ pick up, or the special ones, taking the ‘SP’ coloured icons, the super burner, a flame thrower, or the super ball, a ball which spins around the character and also can shoot them. The other special bonuses are the 1UP, speed up, shield and energy extend.
