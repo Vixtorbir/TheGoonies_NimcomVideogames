@@ -1,6 +1,6 @@
-In the following link you can find the folder with all the sound effects and music.
+In the following link you can find the folder with all the sound effects and music, sound effects in wav format and music in ogg.
 [Out Zone: Music and sound effect](https://github.com/nicobabot/OutZone_AlchemistStudio/tree/master/OutZone_Music)
-Below is the list of files with their respective title, the ones with "", means that we are not 100% sure that it is the correct sound:
+Listed below are the names of the files in the folder linked above with the name of the song or the name of the sound, the ones with "", means that we are not 100% sure that it is the correct sound:
 
 01. outzone_001 : Coin sound effect.
 02. outzone_002: Chapter Ⅰ Directive ～ to the earth
