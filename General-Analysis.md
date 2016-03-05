@@ -1,4 +1,6 @@
 ![Outzone cabinet sign](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/General%20Analysis/1181242142240.png)
+
+_Outzone cabinet sign_
 # Genre
 Out Zone is a shoot’em up game, a genre where the player engages in a lone assault, often in a spacecraft or aircraft, shooting large numbers of enemies while dodging their attacks. This genre requires fast reactions and memorize levels and enemy attack patterns. Some games of this genre have Bullet hell moments or are Bullet hell games, Bullet hell is a genre where the player have a huge amount of enemy projectiles to avoid.
 
@@ -8,6 +10,8 @@ _Cave shmups screenshot, this is a Bullet hell game_
 The first game of this genre is Spacewar, developed in 1961, but is generally credited that Space Invaders, developed in 1978, was the start of the genre.
 
 ![Spacewar](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/General%20Analysis/250px-Spacewar1.png)
+
+_Spacewar screenshot_
 
 Shoot 'em ups were popular throughout the 1980s and early 1990s. In the mid-1990s, shoot 'em ups became a niche genre.
 Between all the shoot’em ups subgenres, Out Zone is a Run and Gun (or “run ‘n’ gun”), it’s a genre where the player fights on foot, perhaps with the ability to jump. In this genre you can have horizontal, vertical scrolling or isometric viewpoints and may feature multidirectional movement.
