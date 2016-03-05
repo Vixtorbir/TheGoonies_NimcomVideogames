@@ -1,4 +1,4 @@
-# Alchemist Studio
+# Alchemist Studio Project 1: Out Zone
 
 ![Alchemist Studio logo](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/Logo/OutZoneLogo.jpg?raw=true)
 _Alchemist Studio logo_
