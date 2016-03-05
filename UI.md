@@ -26,7 +26,7 @@ If the user don't enter a coin will start the game demonstration to show how the
 
 ![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0012.png)
 
-If the user want to play with somebody can click the bottom 2 of the keyboard (if he is playing in pc) and the second main character will appear in another colour.
+If the user want to play with somebody can click the botton 2 of the keyboard (if he is playing in pc) and the second main character will appear in another colour.
 
 ![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0018.png)
 
