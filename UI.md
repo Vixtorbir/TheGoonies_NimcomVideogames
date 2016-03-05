@@ -22,7 +22,7 @@ Explanation of the mission.
 
 ![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0014.png?raw=true)
 
-If the user don't enter a coin will start the game demonstration to show how will be the game.
+If the user don't enter a coin will start the game demonstration to show how the game looks like.
 
 ![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0012.png)
 
