@@ -16,19 +16,19 @@ Outzone is a shoot'em up game with seven levels of vertical scrolling, containin
 
 _Sergio Alvarez's Github account and responsability_
 * Design/QA.
-* Github: Sergio111.
+* Github: [Sergio111](https://github.com/Sergio111).
 
 _Nicolas Babot's Github account_
 * Management.
-* Github: nicobabot.
+* Github: [nicobabot](https://github.com/nicobabot).
 
 _Xavier Olivenza's Github account_
 * Code.
-* Github: xavierolivenza.
+* Github: [xavierolivenza](https://github.com/xavierolivenza).
 
-_[Daniel Olondriz](https://github.com/danielolondriz)'s Github account_
+_Daniel Olondriz's Github account_
 * Art.
-* Github: TheDriXx.
+* Github:[TheDriXx](https://github.com/danielolondriz).
 
 
 ### Index
