@@ -9,7 +9,7 @@ Out Zone
 
 ## Game Description
 
-TODO:
+Outzone is a shoot'em up game with seven levels of vertical scrolling, containing many different enemies and a boss at the end of each level.
 ![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Welcome%20Page/11291.jpg)
 
 ### **Members**
