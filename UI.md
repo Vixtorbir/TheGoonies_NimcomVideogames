@@ -17,3 +17,21 @@ If you enter one coin you have to choose if you want to play one or two players.
 ![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0005.png)
 
 Explanation of the mission of the game.
+
+![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0007.png)
+
+Game over screen. This screen appears when the user loses all the lives.
+
+![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0008.png)
+
+After the game over you can save your punctuation and enter in the list of the best punctuations.
+
+![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0012.png)
+
+If the user finish the game will find the final screen.
+
+![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0014.png)
+
+![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0015.png)
+
+If the user finish the game will find the final screen.
