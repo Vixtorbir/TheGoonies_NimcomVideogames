@@ -26,7 +26,7 @@ _Xavier Olivenza's Github account_
 * Code.
 * Github: xavierolivenza.
 
-_Daniel Olondriz's Github account_
+_[Daniel Olondriz](https://github.com/danielolondriz)'s Github account_
 * Art.
 * Github: TheDriXx.
 
