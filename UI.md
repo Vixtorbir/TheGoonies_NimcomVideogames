@@ -30,7 +30,7 @@ If the user want to play with somebody can click the botton 2 of the keyboard (i
 
 ![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0018.png)
 
-If the user is a lot of time in the same place it will appear a notice that tells the user to go ahead.
+If the user stands still at the same height for a long time it will appear a notice that tells the user to go ahead.
 
 ![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/IngameUI.jpg)
 
