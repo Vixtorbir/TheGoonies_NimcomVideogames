@@ -32,7 +32,7 @@ Listed below are the names of the files in the folder linked above with the name
 26. outzone_026: ""Super Ball 
 27. outzone_027:
 28. outzone_028: ""1st boss dead sound effect.
-29. outzone_029: 2nd boss dead sound effect. // 4rth boss dead sound effect.// six boss dead sound effect
+29. outzone_029: 2nd//4th//6th boss dead sound effect.
 30. outzone_030:
 31. outzone_031: 3rd boss dead sound effect.
 32. outzone_032: Title sound effect 2.
