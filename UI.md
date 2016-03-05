@@ -30,7 +30,7 @@ If the user want to play with somebody can click the bottom 2 of the keyboard (i
 
 If the user is a lot of time in the same place it will appear a notice that tells the user to go ahead.
 
-![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/21_Out-Zone_ingame-17.jpg)
+![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/IngameUI.jpg)
 
 In game you will find this properties.
 
@@ -39,8 +39,6 @@ In game you will find this properties.
 ![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0021.png)
 
 When the user is losing all of his energy it will appear one notice telling him that he is about to die. If he loses all the energy he is going to die.
-
-
 
 ![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0007.png)
 
