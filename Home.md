@@ -4,7 +4,7 @@
 _Alchemist Studio logo_
 
 ## Game Title
-![](http://outzone.meodai.ch/images/outzone_logo.gif)
+![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Art/Sprites%20OutZone/menu/title/6.png)
 
 Out Zone
 
