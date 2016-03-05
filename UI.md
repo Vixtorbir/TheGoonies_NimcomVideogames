@@ -18,7 +18,7 @@ If you enter one coin you have to choose if you want to play one or two players.
 
 ![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0005.png)
 
-Explanation of the mission of the game.
+Explanation of the mission.
 
 ![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0014.png?raw=true)
 
