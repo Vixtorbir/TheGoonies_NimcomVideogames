@@ -38,3 +38,5 @@
 |Image|Name|Hit Points|Points|Description|Other stages where it is found|
 |:---:|:---:|:---:|:---:|---|:---:|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/GreenR.png)|Green Robot|1|390|Is like the other robots but green|-|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/OrangeR.png)|Orange Robot|2|430|Is a robot that comes out of a truck only in the second level|-|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/BlueM.png)|Blue Machine|2|940|Is a blue machine that moves very fast and comes in group|-|
