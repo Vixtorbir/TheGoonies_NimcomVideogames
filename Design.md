@@ -58,3 +58,7 @@
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/YellowRS.png)|Yellow Robot Soldier|1|430|Is very similar to all other robots but it gives you some more points|-|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/RedRS.png)|Red Robot Soldier|1|430|Is similar to the yellow one, but when killed it drops a random power up|-|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/PurpleR.png)|Purple Robot|1|390|Is like the other robots but purple|-|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/ShieldedR.png)|Shielded Robot|6(3 the shield and 3 the robot)|500|Is like the rolling robot, but slower and it has a shield|-|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Wagon.png)|Wagon|5(2 the blue part and 3 yellow part)|1310|Is a wagon that goes by some tracks and shoots you|-|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/GreenD2.png)|Green Drone|5 every drone|1850|Is a green drone that appears un groups of five. The five attack but if you kill the first one they all die|-|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/NightMareDrone.png)|Night Mare's Drone|1|410|Is a drone created by Night Mare that moves fast and shoots at you|-|
