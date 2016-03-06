@@ -78,6 +78,6 @@ When you stop moving, after a while, a message will appear telling
 
 If you stop walking enemies will stop appearing.
 ## Controls
-There's an eight way joystick which you use to move the character and the direction he shoots.
-There are two buttons, one for shoot and one for the special attack
-On the emulator you move yourself with a(left), w(top), s(bottom), d(right), you shoot with j and use your special attack with j.
+There's an eight way joystick which you use to move the character and the direction he shoots, there are two buttons, one for shooting and one for using the special attack.
+
+On the emulator you move yourself with a(left), w(top), s(bottom), d(right), you shoot with j and use your special attack with k.
