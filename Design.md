@@ -1,6 +1,8 @@
 # Objects
 -All the objects that have been studied are from level 1 to level 3
+
 -All the names have been created by us, because the real ones weren't found
+
 -All the hit points have been calculated with the laser gun without any power up
 ## Level 1
 |Image|Name|Hit Points|Points|Description|Other stages where it is found|
@@ -22,7 +24,9 @@
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/EnergyExtend.png)|Energy Extend|0|100|When you grab it your maximum energy increases|3|
 # Enemies
 -All the enemies that have been studied are from level 1 to level 3
+
 -All the names have been created by us, because the real ones weren't found
+
 -All the hit points have been calculated with the laser gun without any power up
 ## Level 1
 |Image|Name|Hit Points|Points|Description|Other stages where it is found|
