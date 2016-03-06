@@ -1,10 +1,12 @@
+# Narrative structure
+Taking place in the year 2097, mankind is invaded by an alien force from the planet Owagira, and it is up to cyborg soldiers controlled by the player to destroy the invasion force. A sequel, Fixeight, was developed in 1992. During the game we observe a plot evolve, the first levels are the entrance of the alien base and the last ones are the deepest parts of the base were all the alien bosses are.
 # Analysis of each level
 -All the items and enemies that have been studied are from level 1 to level 3
 
 -All the names have been created by us, because the real ones weren't found
 
 -All the hit points have been calculated with the laser gun without any power up
-## Items
+## Items/Objects
 ### Level 1
 |Image|Name|Hit Points|Points|Description|Other stages where it is found|
 |:---:|:---:|:---:|:---:|---|:---:|
