@@ -76,7 +76,7 @@ If you continue shooting without stopping Pipiru, the pet of Toaplan will appear
 
 ![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Pipiru3.png)
 
-If you kill Pipiru
+If you kill Pipiru nothing will happen, but if you arrive to the end of the level with Pipiru alive it will give you 30000 points. Achieving this Easter Egg is very difficult because Pipiru blocks your shoots and bounce around all the map so he may die although you didn't wanted to kill him.
 
 Some curious mechanics, tricks and data:
 
