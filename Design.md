@@ -1,10 +1,10 @@
 # Analysis of each level
--All the objects and enemies that have been studied are from level 1 to level 3
+-All the items and enemies that have been studied are from level 1 to level 3
 
 -All the names have been created by us, because the real ones weren't found
 
 -All the hit points have been calculated with the laser gun without any power up
-## Objects
+## Items
 ### Level 1
 |Image|Name|Hit Points|Points|Description|Other stages where it is found|
 |:---:|:---:|:---:|:---:|---|:---:|
