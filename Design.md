@@ -53,3 +53,8 @@
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/ShudderDrone.png)|Shudder's drone|5|930|Is a drone created by Shudder that helps Shudder|3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Shudder.png)|Death Tank "Shudder"|35|20000 + 1690 points for every machine gun + 10 points every hit|Shudder is the second boss, it is a giant machine with a head and two big machine guns. Shudder's head is invulnerable sometimes, you have to wait it to shoot to destroy it. It is not necessary to destroy the machine guns to kill Shudder|-|
 ## Level 3
+|Image|Name|Hit Points|Points|Description|Other stages where it is found|
+|:---:|:---:|:---:|:---:|---|:---:|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/YellowRS.png)|Yellow Robot Soldier|1|430|Is very similar to all other robots but it gives you some more points|-|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/RedRS.png)|Red Robot Soldier|1|430|Is similar to the yellow one, but when killed it drops a random power up|-|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/PurpleR.png)|Purple Robot|1|390|Is like the other robots but purple|-|
