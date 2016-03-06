@@ -1,7 +1,7 @@
 # Objects
 ## Level 1
 |Image|Name|Points|Description|Other stages where is found|
-|:---:|:---:|:---:|---|:---:|
+|:---:|:---:|:---:|---|---|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/ChangeWeapon.gif)|Change Weapon|100|It allows you to change weapon between laser gun and triple gun|2 and 3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/PowerUp.gif)|Weapon Power Up|100|It empowers your weapons in general, that means that if you change between weapons, the new one will still be upgraded. There are two upgrade levels, meaning that weapons have a standard level and 2 more acquired by grabbing this power up.|2 and 3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Energy.gif)|Energy Power Up|0|It refills your energy bar completely|
