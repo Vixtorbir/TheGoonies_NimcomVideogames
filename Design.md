@@ -70,13 +70,15 @@ In a zone of the level one if you shoot without stopping, it will start to appea
 
 ![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Pipiru1.png)
 
-If you continue shooting without stopping Pipiru, the pet of Toaplan will appear on the map and start to bounce around.
+If you continue shooting without stopping Pipiru, the company mascot of Toaplan, will appear on the map and start to bounce around.
 
 ![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Pipiru2.png)
 
 ![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Pipiru3.png)
 
 If you kill Pipiru nothing will happen, but if you arrive to the end of the level with Pipiru alive it will give you 30000 points. Achieving this Easter Egg is very difficult because Pipiru blocks your shoots and bounce around all the map so he may die although you didn't wanted to kill him.
+
+There are also other Easter Eggs, like having a plane squad following you and supporting you shooting to the enemies, you can also have a ship flying around you that shoots triple shoots to the enemies and there are also some secret locations where are some hidden 5000 point bonuses. Almost all these Easter Eggs are not available in the emulators.
 
 Some curious mechanics, tricks and data:
 
