@@ -4,7 +4,7 @@
 _Alchemist Studio logo_
 
 ## Game Title
-![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Art/Sprites%20OutZone/menu/title/6.png)
+![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/OutZone_Sprites/menu/title/6.png)
 
 Out Zone
 
