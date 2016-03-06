@@ -9,9 +9,11 @@
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Crate.gif)|Crate|2|210|If you break it, it spawns a random power up (generally change weapon or weapon power up)|2,3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/EnergyCrate.gif)|Energy Crate|1|0|If you break it, it spawns an energy power up|2,3|
 ## Level 2
-|Image|Name|Points|Description|Other stages where it is found|
-|:---:|:---:|:---:|---|:---:|
-|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/SuperBurner.png)|Super Burner|0|When you grab it you can use the special weapon called super burner|3|
+|Image|Name|Hit Points|Points|Description|Other stages where it is found|
+|:---:|:---:|:---:|:---:|---|:---:|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/SuperBurner.png)|Super Burner|0|100|When you grab it you can use the special weapon called super burner|3|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/SuperBall.png)|Super Ball|0|100|When you grab it you can use the special weapon called super ball|3|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Shield.png)|Shield|0|100|When you grab it you receive a shield|3|
 # Enemies
 |Image|Name|Points|Description|Other stages where it is found|
 |:---:|:---:|:---:|---|:---:|
