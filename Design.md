@@ -66,21 +66,21 @@ The player plays the game basically shooting without stop and dodging every enem
 
 Some curious mechanics, tricks and data:
 
-When you use your special attack (the bomb), all that is in the screen is removed (meaning shots, and enemies, bosses may not disappear).
+-When you use your special attack (the bomb), all that is in the screen is removed (meaning shots, and enemies, bosses may not disappear).
 
-Shooting while turning around makes the bullets faster than shooting in line.
+-Shooting while turning around makes the bullets faster than shooting in line.
 
-It is faster to shoot spamming the button than to maintain the button.
+-It is faster to shoot spamming the button than to maintain the button.
 
-If you are in the right of the screen enemies may appear in the left.
+-If you are in the right of the screen enemies may appear in the left.
 
-With the triple gun you can only shoot in one direction(top), while with laser gun you can shoot in 8 directions.
+-With the triple gun you can only shoot in one direction(top), while with laser gun you can shoot in 8 directions.
 
-The laser gun has more damage than the triple gun.
+-The laser gun has more damage than the triple gun.
 
-When you stop moving, after a while, a message will appear telling you "Go Ahead!"
+-When you stop moving, after a while, a message will appear telling you "Go Ahead!"
 
-If you stop walking enemies will stop appearing.
+-If you stop walking enemies will stop appearing.
 ## Controls
 There's an eight way joystick which you use to move the character and the direction he shoots, there are two buttons, one for shooting (the red one) and one for using the special attack (the blue one).
 
