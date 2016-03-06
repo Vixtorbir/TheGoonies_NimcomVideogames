@@ -1,34 +1,35 @@
-# Objects
+# Analysis of each level
+## Objects
 -All the objects that have been studied are from level 1 to level 3
 
 -All the names have been created by us, because the real ones weren't found
 
 -All the hit points have been calculated with the laser gun without any power up
-## Level 1
+### Level 1
 |Image|Name|Hit Points|Points|Description|Other stages where it is found|
 |:---:|:---:|:---:|:---:|---|:---:|
-|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/ChangeWeapon.gif)|Change Weapon|0|100|It allows you to change weapon between laser gun and triple gun|2,3|
-|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/PowerUp.gif)|Weapon Power Up|0|100|It empowers your weapons in general, that means that if you change between weapons, the new one will still be upgraded. There are two upgrade levels, meaning that weapons have a standard level and 2 more acquired by grabbing this power up.|2,3|
-|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Energy.gif)|Energy Power Up|0|0|It refills your energy bar completely|2,3|
-|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Bomb.gif)|Bomb|0|100/5000|It gives you an extra bomb, if you have the maximum amount (10) instead of giving a bomb gives 5000 points|2,3|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/ChangeWeapon.gif)|Change Weapon|-|100|It allows you to change weapon between laser gun and triple gun|2,3|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/PowerUp.gif)|Weapon Power Up|-|100|It empowers your weapons in general, that means that if you change between weapons, the new one will still be upgraded. There are two upgrade levels, meaning that weapons have a standard level and 2 more acquired by grabbing this power up.|2,3|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Energy.gif)|Energy Power Up|-|-|It refills your energy bar completely|2,3|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Bomb.gif)|Bomb|-|100/5000|It gives you an extra bomb, if you have the maximum amount (10) instead of giving a bomb gives 5000 points|2,3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Crate.gif)|Crate|2|210|If you break it, it spawns a random power up (generally change weapon or weapon power up)|2,3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/EnergyCrate.gif)|Energy Crate|1|0|If you break it, it spawns an energy power up|2,3|
-## Level 2
+### Level 2
 |Image|Name|Hit Points|Points|Description|Other stages where it is found|
 |:---:|:---:|:---:|:---:|---|:---:|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Bush.png)|Bush|3|200|It's a simple bush, just an obstacle in your way|-|
-|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/SuperBurner.png)|Super Burner|0|100|When you grab it you can use the special weapon called super burner|3|
-|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/SuperBall.png)|Super Ball|0|100|When you grab it you can use the special weapon called super ball|3|
-|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Shield.png)|Shield|0|100|When you grab it you receive a shield|3|
-|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/SpeedBust.png)|Speed Bust|0|100|When you grab it you become faster|3|
-|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/EnergyExtend.png)|Energy Extend|0|100|When you grab it your maximum energy increases|3|
-# Enemies
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/SuperBurner.png)|Super Burner|-|100|When you grab it you can use the special weapon called super burner|3|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/SuperBall.png)|Super Ball|-|100|When you grab it you can use the special weapon called super ball|3|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Shield.png)|Shield|-|100|When you grab it you receive a shield|3|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/SpeedBust.png)|Speed Bust|-|100|When you grab it you become faster|3|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/EnergyExtend.png)|Energy Extend|-|100|When you grab it your maximum energy increases|3|
+## Enemies
 -All the enemies that have been studied are from level 1 to level 3
 
 -All the names have been created by us, because the real ones weren't found
 
 -All the hit points have been calculated with the laser gun without any power up
-## Level 1
+### Level 1
 |Image|Name|Hit Points|Points|Description|Other stages where it is found|
 |:---:|:---:|:---:|:---:|---|:---:|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/GreyR.png)|Grey Robot|1|390|Is the most common and basic enemy|2|
@@ -40,7 +41,7 @@
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Turret3.png)|Turret 3|3|290|Static turrets that are in front of some doors|2|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Truck.png)|Truck|20|1000 + 10 every hit|A truck that spawns blue robots|-|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Mazurka.png)|Mazurka|50 every robot|2500 every robot + 30 every hit|Mazurka is the first boss of the game it is a group of four circular robots that shoot without stopping and try to run over you|-|
-## Level 2
+### Level 2
 |Image|Name|Hit Points|Points|Description|Other stages where it is found|
 |:---:|:---:|:---:|:---:|---|:---:|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/GreenR.png)|Green Robot|1|390|Is like the other robots but green|-|
@@ -52,7 +53,7 @@
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/BonusPlane.png)|Bonus Plane|1|5000|Is a plane that appears only in one zone of the map and it is extremely fast|3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/ShudderDrone.png)|Shudder's drone|5|930|Is a drone created by Shudder that helps Shudder|3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Shudder.png)|Death Tank "Shudder"|35|20000 + 1690 points for every machine gun + 10 points every hit|Shudder is the second boss, it is a giant machine with a head and two big machine guns. Shudder's head is invulnerable sometimes, you have to wait it to shoot to destroy it. It is not necessary to destroy the machine guns to kill Shudder|-|
-## Level 3
+### Level 3
 |Image|Name|Hit Points|Points|Description|Other stages where it is found|
 |:---:|:---:|:---:|:---:|---|:---:|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/YellowRS.png)|Yellow Robot Soldier|1|430|Is very similar to all other robots but it gives you some more points|-|
