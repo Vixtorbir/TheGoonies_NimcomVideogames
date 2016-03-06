@@ -1,5 +1,6 @@
 # Objects
 (All the objects that have been studied are from level 1 to level 3)
+(All the names have been created by us, because the real ones weren't found)
 (All the hit points have been calculated with the laser gun without any power up)
 ## Level 1
 |Image|Name|Hit Points|Points|Description|Other stages where it is found|
@@ -21,6 +22,7 @@
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/EnergyExtend.png)|Energy Extend|0|100|When you grab it your maximum energy increases|3|
 # Enemies
 (All the enemies that have been studied are from level 1 to level 3)
+(All the names have been created by us, because the real ones weren't found)
 (All the hit points have been calculated with the laser gun without any power up)
 ## Level 1
 |Image|Name|Hit Points|Points|Description|Other stages where it is found|
@@ -40,3 +42,8 @@
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/GreenR.png)|Green Robot|1|390|Is like the other robots but green|-|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/OrangeR.png)|Orange Robot|2|430|Is a robot that comes out of a truck only in the second level|-|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/BlueM.png)|Blue Machine|2|940|Is a blue machine that moves very fast and comes in group|-|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/RedM.png)|Red Machine|2|1220|Is the same as the blue machine but it drops a random power up when dies|-|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/PurpleM.png)|Purple Machine|1|410|Is a very small machine that is always in groups and moves very fast|-|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/BigRedM.png)|Big Red Machine|5|830|Is a big machine that shoots big bullets to both sides|-|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/BonusPlane.png)|Bonus Plane|1|5000|Is a plane that appears only in one zone of the map and it is extremely fast|3|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/ShudderDrone.png)|Shudder's drone|5|930|Is a drone created by Shudder that helps Shudder|3|
