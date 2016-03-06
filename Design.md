@@ -15,7 +15,7 @@
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/SuperBall.png)|Super Ball|0|100|When you grab it you can use the special weapon called super ball|3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Shield.png)|Shield|0|100|When you grab it you receive a shield|3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/SpeedBust.png)|Speed Bust|0|100|When you grab it you become faster|3|
-|https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/EnergyExtend.png|Energy Extend|0|100|When you grab it your maximum energy increases|3|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/EnergyExtend.png)|Energy Extend|0|100|When you grab it your maximum energy increases|3|
 # Enemies
 |Image|Name|Points|Description|Other stages where it is found|
 |:---:|:---:|:---:|---|:---:|
