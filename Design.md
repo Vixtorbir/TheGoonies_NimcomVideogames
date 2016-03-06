@@ -17,6 +17,7 @@
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/SpeedBust.png)|Speed Bust|0|100|When you grab it you become faster|3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/EnergyExtend.png)|Energy Extend|0|100|When you grab it your maximum energy increases|3|
 # Enemies
-|Image|Name|Points|Description|Other stages where it is found|
-|:---:|:---:|:---:|---|:---:|
-|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/GreyR.png)|Grey Robot|390|Is the most common and basic enemy|2,3|
+## Level 1
+|Image|Name|Hit Points|Points|Description|Other stages where it is found|
+|:---:|:---:|:---:|:---:|---|:---:|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/GreyR.png)|Grey Robot|1|390|Is the most common and basic enemy|2,3|
