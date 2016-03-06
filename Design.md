@@ -1,10 +1,10 @@
 # Analysis of each level
-## Objects
--All the objects that have been studied are from level 1 to level 3
+-All the objects and enemies that have been studied are from level 1 to level 3
 
 -All the names have been created by us, because the real ones weren't found
 
 -All the hit points have been calculated with the laser gun without any power up
+## Objects
 ### Level 1
 |Image|Name|Hit Points|Points|Description|Other stages where it is found|
 |:---:|:---:|:---:|:---:|---|:---:|
@@ -13,7 +13,7 @@
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Energy.gif)|Energy Power Up|-|-|It refills your energy bar completely|2,3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Bomb.gif)|Bomb|-|100/5000|It gives you an extra bomb, if you have the maximum amount (10) instead of giving a bomb gives 5000 points|2,3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Crate.gif)|Crate|2|210|If you break it, it spawns a random power up (generally change weapon or weapon power up)|2,3|
-|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/EnergyCrate.gif)|Energy Crate|1|0|If you break it, it spawns an energy power up|2,3|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/EnergyCrate.gif)|Energy Crate|1|-|If you break it, it spawns an energy power up|2,3|
 ### Level 2
 |Image|Name|Hit Points|Points|Description|Other stages where it is found|
 |:---:|:---:|:---:|:---:|---|:---:|
@@ -24,11 +24,6 @@
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/SpeedBust.png)|Speed Bust|-|100|When you grab it you become faster|3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/EnergyExtend.png)|Energy Extend|-|100|When you grab it your maximum energy increases|3|
 ## Enemies
--All the enemies that have been studied are from level 1 to level 3
-
--All the names have been created by us, because the real ones weren't found
-
--All the hit points have been calculated with the laser gun without any power up
 ### Level 1
 |Image|Name|Hit Points|Points|Description|Other stages where it is found|
 |:---:|:---:|:---:|:---:|---|:---:|
