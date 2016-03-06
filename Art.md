@@ -27,7 +27,8 @@ Finally, for the 5th level, we can differentiate 3 different moods, as it starts
 You can check the map of this [level](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/OutZone_Sprites/maps/level5.png).
 
 #Sprites
-In order to get the sprites we used the program SpriteTracer and we also took them from an OutZone android Apk. We took some of them from websites aswell.
+In order to get the sprites we used the program [SpriteTracer]
+(http://spritedatabase.net/download) and we also took them from an OutZone android Apk. We took some of them from websites aswell.
 
 
 You can check all of the sprites [here](https://github.com/nicobabot/OutZone_AlchemistStudio/tree/master/OutZone_Sprites).
