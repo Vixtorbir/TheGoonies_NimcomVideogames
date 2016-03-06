@@ -55,7 +55,7 @@ Game over screen. This screen appears when the user loses all the lives.
 
 ![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0008.png)
 
-After the game over you can save your punctuation and enter in the list of the best punctuations.
+After the game over you can save your punctuation and enter in the list of the best punctuations. To save your punctuation you can only choose three letters.
 
 ![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/Gamefinal1v.1.jpg)
 
