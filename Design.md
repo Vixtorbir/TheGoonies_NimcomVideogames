@@ -78,8 +78,10 @@ When you stop moving, after a while, a message will appear telling
 
 If you stop walking enemies will stop appearing.
 ## Controls
-There's an eight way joystick which you use to move the character and the direction he shoots, there are two buttons, one for shooting and one for using the special attack.
-
-On the emulator you move yourself with a(left), w(top), s(bottom), d(right), you shoot with j and use your special attack with k.
+There's an eight way joystick which you use to move the character and the direction he shoots, there are two buttons, one for shooting (the red one) and one for using the special attack (the blue one).
 
 ![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Controls.png)
+
+The game is for two players so as it can be seen in the image down below, there are joystick and buttons for two people.
+
+![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/General%20Analysis/1187648210.jpg)
