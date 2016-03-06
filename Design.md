@@ -8,7 +8,10 @@
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Bomb.gif)|Bomb|100/5000|It gives you an extra bomb, if you have the maximum amount instead of giving a bomb gives 5000 points|2,3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Crate.gif)|Crate|210|If you break it, it spawns a random power up (generally change weapon or weapon power up)|2,3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/EnergyCrate.gif)|Energy Crate|0|If you break it, it spawns an energy power up|2,3|
+## Level 2
+|Image|Name|Points|Description|Other stages where it is found|
+|:---:|:---:|:---:|---|:---:|
 # Enemies
-|Image|Name|Points|Description|
-|:---:|:---:|:---:|---|
-|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/GreyR.png)|Grey Robot|390|Is the most common and basic enemy|
+|Image|Name|Points|Description|Other stages where it is found|
+|:---:|:---:|:---:|---|:---:|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/GreyR.png)|Grey Robot|390|Is the most common and basic enemy|2,3|
