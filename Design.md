@@ -20,4 +20,5 @@
 ## Level 1
 |Image|Name|Hit Points|Points|Description|Other stages where it is found|
 |:---:|:---:|:---:|:---:|---|:---:|
-|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/GreyR.png)|Grey Robot|1|390|Is the most common and basic enemy|2,3|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/GreyR.png)|Grey Robot|1|390|Is the most common and basic enemy|2|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/RedR.png)|Red Robot|1|620|Is similar to the other robots, but when killed it drops a random power up|2,3|
