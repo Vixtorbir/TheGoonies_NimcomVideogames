@@ -11,6 +11,7 @@
 ## Level 2
 |Image|Name|Hit Points|Points|Description|Other stages where it is found|
 |:---:|:---:|:---:|:---:|---|:---:|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Bush.png)|Bush|3|200|It's a simple bush, just an obstacle in your way|-|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/SuperBurner.png)|Super Burner|0|100|When you grab it you can use the special weapon called super burner|3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/SuperBall.png)|Super Ball|0|100|When you grab it you can use the special weapon called super ball|3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Shield.png)|Shield|0|100|When you grab it you receive a shield|3|
