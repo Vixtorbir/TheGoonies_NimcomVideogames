@@ -11,6 +11,7 @@
 ## Level 2
 |Image|Name|Points|Description|Other stages where it is found|
 |:---:|:---:|:---:|---|:---:|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/SuperBurner.png)|Super Burner|0|When you grab it you can use the special weapon called super burner|3|
 # Enemies
 |Image|Name|Points|Description|Other stages where it is found|
 |:---:|:---:|:---:|---|:---:|
