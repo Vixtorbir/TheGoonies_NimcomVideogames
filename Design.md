@@ -25,3 +25,6 @@
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/RedR.png)|Red Robot|1|620|Is similar to the other robots, but when killed it drops a random power up|2,3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/BlueR.png)|Blue Robot|1|390|Is like the grey robot but blue|2|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/RollingRobot.png)|Rolling Robot|3|1490|It comes in groups of four, they roll in the screen, shoot a few times and then go out. In level 2 it comes alone|2|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Turret1.png)|Turret 1|2|410|Static turrets that are in the map, normally in groups|-|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Turret2.png)|Turret 2|10|810|Static turrets that are in walls and shoot without stopping|-|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Turret2.png)|Turret 3|3|290|Static turrets that are in front of some doors|2|
