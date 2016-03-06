@@ -81,7 +81,7 @@ Some curious mechanics, tricks and data:
 -When you stop moving, after a while, a message will appear telling you "Go Ahead!"
 
 -If you stop walking enemies will stop appearing.
-## Controls
+# Controls
 There's an eight way joystick which you use to move the character and the direction he shoots, there are two buttons, one for shooting (the red one) and one for using the special attack (the blue one).
 
 ![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Controls.png)
