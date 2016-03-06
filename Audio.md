@@ -9,7 +9,7 @@ Music:
 * outzone_003: Chapter Ⅰ Directive ～ to the earth ( Version 1.1 )
 * outzone_004: Chapter Ⅴ Mystery of Owagira
 * outzone_005: Chapter Ⅵ A little more, Wham
-* outzone_006: Dai 1 Shou Shirei - Chikyu-e (Ver.1.2) (Level 1).
+* outzone_006: Dai 1 Shou Shirei - Chikyu-e (Ver.1.2) (Level 1)
 * outzone_007: Chapter Ⅳ Soldier like flying
 * outzone_008: Chapter Ⅱ Gift of the bullet to guys
 * outzone_009: Chapter Ⅲ Working people of O･Z
@@ -32,27 +32,27 @@ Sound effects:
 * outzone_023: Power Up // Change gun.
 * outzone_024: More energy.
 * outzone_025:
-* outzone_026: ""Super Ball 
+* outzone_026: ""Super Ball.
 * outzone_027:
 * outzone_028: ""1st boss dead sound effect.
 * outzone_029: 2nd//4th//6th boss dead sound effect.
 * outzone_030:
 * outzone_031: 3rd boss dead sound effect.
 * outzone_032: Title sound effect 2.
-* outzone_033: ""Little alien death
-* outzone_034: ""boss 5 shot
+* outzone_033: ""Little alien death.
+* outzone_034: ""boss 5 shot.
 * outzone_035: Sound effect of the blue laser of the 3rd boss.
 * outzone_036: Ground Cut of 3rd boss.
 * outzone_037: ""Smallest lava appears sound effect. // ""5 boss dead sound effect.
 * outzone_038: ""Biggest lava appears sound effect.
 * outzone_039:
 * outzone_040:
-* outzone_041: Gun three shoots sound effect. // 4rth boss missiles
+* outzone_041: Gun three shoots sound effect. // 4rth boss missiles.
 * outzone_042
 * outzone_043: Boss six when blue arms are extended.
-* outzone_044: ""Boss 7,  laser sword
-* outzone_045: ""Boss 7, when player hits him
+* outzone_044: ""Boss 7,  laser sword.
+* outzone_045: ""Boss 7, when player hits him.
 * outzone_046:
-* outzone_047: Out Zone arrange Version
+* outzone_047: Out Zone arrange Version.
 * outzone_048:                         
 * outzone_049
