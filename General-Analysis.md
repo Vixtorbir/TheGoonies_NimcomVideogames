@@ -29,11 +29,19 @@ _Out Zone Upright cabinet_
 Out Zone is a run and gun arcade game with vertical scrolling where the player must fight on foot through seven levels with a boss at the end of each one. To defeat the enemies, the player can use the standard weapons, one of single shot and the other with triple shot, he can switch between them with the ‘C’ pick up, or the special ones, taking the ‘SP’ colored icons, the super burner, a flame thrower, or the super ball, a ball which spins around the character and also can shoot them. The other special bonuses are the 1UP, speed up, shield and energy extend.
 
 
-# Outzone
+# Outzone links to information/images
 [DIP Switch](http://outzone.meodai.ch/images/medias/OutZone_Dip_Swicth.txt)
+
 [American Flyer](http://outzone.meodai.ch/images/medias/flyer_romstar.jpg)
+
 [Japanese Flyer](http://outzone.meodai.ch/images/medias/flyer.png)
+
 [US Cabinet Sticker](http://outzone.meodai.ch/images/medias/marquee_us.jpg)
+
 [US Romstar Manual](http://outzone.meodai.ch/images/medias/OutZone.man.pdf)
+
 [US Instructions Sticker 1](http://outzone.meodai.ch/images/medias/OutZone-s.tif)
+
 [US Instructions Sticker 2](http://outzone.meodai.ch/images/medias/Outzone-i.tif)
+
+_Links from this [web](http://outzone.meodai.ch)._
