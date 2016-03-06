@@ -31,7 +31,7 @@ Out Zone is a run and gun arcade game with vertical scrolling where the player m
 This game had a sequel, Fixeight in 1992.
 
 
-# Outzone links to information/images
+## Outzone links to information/images
 [DIP Switch](http://outzone.meodai.ch/images/medias/OutZone_Dip_Swicth.txt)
 
 [American Flyer](http://outzone.meodai.ch/images/medias/flyer_romstar.jpg)
