@@ -81,3 +81,4 @@ If you stop walking enemies will stop appearing.
 There's an eight way joystick which you use to move the character and the direction he shoots, there are two buttons, one for shooting and one for using the special attack.
 
 On the emulator you move yourself with a(left), w(top), s(bottom), d(right), you shoot with j and use your special attack with k.
+![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Controls.png)
