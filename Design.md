@@ -61,3 +61,16 @@ Taking place in the year 2097, mankind is invaded by an alien force from the pla
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/GreenD2.png)|Green Drone|5 every drone|1850|Is a green drone that appears un groups of five. The five attack but if you kill the first one they all die|-|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/NightMareDrone.png)|Night Mare's Drone|1|410|Is a drone created by Night Mare that moves fast and shoots at you|-|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/NightMare.png)|Night Mare|25|30000 + 10 every hit|Night Mare is the third boss, it has an eye that is it's weak spot and two big lasers that it uses to break the map and reduce the amount of ground you have. You can only damage the eye when it is open|-|
+# Gameplay
+When you use your special attack, remove all that is in the screen (meaning shots, bosses may not disappear).
+When you turn, the bullets go faster.
+Is faster to shoot spamming than to maintain the button.
+If you are in the right of the screen enemies may appear in the left.
+With the tri-gun you can only shot in one direction(top), while with laser gun you can shoot in 8 directions.
+The laser gun has more damage than the tri gun.
+When you stop moving, after a while, a message will appear telling
+If you stop walking enemies will stop appearing.
+## Controls
+There's an eight way joystick which you use to move the character and the direction he shoots.
+There are two buttons, one for shoot and one for the special attack
+On the emulator you move yourself with a(left), w(top), s(bottom), d(right), you shoot with j and use your special attack with j.
