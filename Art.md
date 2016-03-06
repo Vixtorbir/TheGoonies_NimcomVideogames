@@ -25,3 +25,9 @@ You can check the map of this [level](https://github.com/nicobabot/OutZone_Alche
 Finally, for the 5th level, we can differentiate 3 different moods, as it starts with blue colors so it looks like a cold and aggressive place, then it turns to yellow which is contrasted with the black color of the holes. This effect makes a contrast between these two colors, so it looks like a dangerous zone. Finally, on the third part of the level, the main color turns red and black. The holes are black, and the rocks and platform red, so the mood feels more alarming.
 
 You can check the map of this [level](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/OutZone_Sprites/maps/level5.png).
+
+#Sprites
+In order to get the sprites we used the program SpriteTracer and we also took them from the OutZone Apk. We took some of them from websites aswell.
+
+
+You can check all of the sprites [here](https://github.com/nicobabot/OutZone_AlchemistStudio/tree/master/OutZone_Sprites).
