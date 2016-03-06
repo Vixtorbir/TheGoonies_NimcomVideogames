@@ -31,5 +31,5 @@
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Turret2.png)|Turret 2|10|810|Static turrets that are in walls and shoot without stopping|-|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Turret3.png)|Turret 3|3|290|Static turrets that are in front of some doors|2|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Truck.png)|Truck|20|1000 + 10 every hit|A truck that spawns blue robots|-|
-|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Mazurka.png)|Mazurka|50 every robot|2500 every robot + 30 every hit|Mazurka is the first boss of the game it is a group of four circular robots that shoot without stopping and try to kill you by crashing with you|-|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Mazurka.png)|Mazurka|50 every robot|2500 every robot + 30 every hit|Mazurka is the first boss of the game it is a group of four circular robots that shoot without stopping and try to run over you|-|
 ## Level 2
