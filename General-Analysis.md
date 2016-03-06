@@ -13,7 +13,7 @@ The first game of this genre is Spacewar, developed in 1961, but is generally cr
 
 _Spacewar screenshot_
 
-Shoot 'em ups were popular throughout the 1980s and early 1990s. In the mid-1990s, shoot 'em ups became a niche genre.
+Shoot 'em ups were popular throughout the 1980s and early 1990s. In the mid-1990s, shoot 'em ups became a common genre.
 Between all the shoot’em ups subgenres, Out Zone is a Run and Gun (or “run ‘n’ gun”), it’s a genre where the player fights on foot, perhaps with the ability to jump. In this genre you can have horizontal, vertical scrolling or isometric viewpoints and may feature multidirectional movement.
 # History
 ![Toaplan Logo](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/General%20Analysis/toaplan.png)
