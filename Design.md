@@ -62,19 +62,23 @@ The plot of the game is: "Taking place in the year 2097, mankind is invaded by a
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/NightMareDrone.png)|Night Mare's Drone|1|410|Is a drone created by Night Mare that moves fast and shoots at you|-|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/NightMare.png)|Night Mare|25|30000 + 10 every hit|Night Mare is the third boss, it has an eye that is it's weak spot and two big lasers that it uses to break the map and reduce the amount of ground you have. You can only damage the eye when it is open|-|
 # Gameplay
-When you use your special attack, remove all that is in the screen (meaning shots, bosses may not disappear).
+The player plays the game basically shooting without stop and dodging every enemy shoot. In the game there are power ups that help the player enemies and objects. There are also bosses, one at the end of every level. While is not necessary to kill the standard enemies to advance, it is obligatory to kill the boss of the level to go to the next one. In the game you have two possible guns to use, every one useful in different situations or depending in the way that the player likes to play, there are also special guns that have special effects. The objective of the game is to aim the highest score and complete all the stages. It is a game without ending, because when you end it, it restarts another time from level one. The difficulty of the game is progressive, increasing in every level.
 
-When you turn, the bullets go faster.
+Some curious mechanics, tricks and data:
 
-Is faster to shoot spamming than to maintain the button.
+When you use your special attack (the bomb), all that is in the screen is removed (meaning shots, and enemies, bosses may not disappear).
+
+Shooting while turning around makes the bullets faster than shooting in line.
+
+It is faster to shoot spamming the button than to maintain the button.
 
 If you are in the right of the screen enemies may appear in the left.
 
-With the tri-gun you can only shot in one direction(top), while with laser gun you can shoot in 8 directions.
+With the triple gun you can only shoot in one direction(top), while with laser gun you can shoot in 8 directions.
 
-The laser gun has more damage than the tri gun.
+The laser gun has more damage than the triple gun.
 
-When you stop moving, after a while, a message will appear telling
+When you stop moving, after a while, a message will appear telling you "Go Ahead!"
 
 If you stop walking enemies will stop appearing.
 ## Controls
