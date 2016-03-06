@@ -62,7 +62,21 @@ The plot of the game is: "Taking place in the year 2097, mankind is invaded by a
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/NightMareDrone.png)|Night Mare's Drone|1|410|Is a drone created by Night Mare that moves fast and shoots at you|-|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/NightMare.png)|Night Mare|25|30000 + 10 every hit|Night Mare is the third boss, it has an eye that is it's weak spot and two big lasers that it uses to break the map and reduce the amount of ground you have. You can only damage the eye when it is open|-|
 # Gameplay
-The player plays the game basically shooting without stop and dodging every enemy shoot. In the game there are power ups that help the player to kill enemies and continue advancing in the game, there are objects too, like doors, bushes, platforms, etc... There are also bosses, one at the end of every level. While is not necessary to kill the standard enemies to advance, it is obligatory to kill the boss of the level to go to the next one. In the game you have two possible guns to use, every one useful in different situations or depending in the way that the player likes to play, there are also special guns that have special effects. The objective of the game is to aim the highest score and complete all the stages. It is a game without ending, because when you end it, it restarts another time from level one. The difficulty of the game is progressive, increasing in every level.
+The player plays the game basically shooting without stop and dodging every enemy shoot. In the game there are power ups that help the player to kill enemies and continue advancing in the game, there are objects too, like doors, bushes, platforms, etc... There are also bosses, one at the end of every level. While is not necessary to kill the standard enemies to advance, it is obligatory to kill the boss of the level to go to the next one. In the game you have two possible guns to use, every one useful in different situations or depending in the way that the player likes to play, there are also special guns that have special effects. The objective of the game is to aim the highest score and complete all the stages. It is a game without ending, because when you end it, it restarts another time from level one. The difficulty of the game is progressive, increasing in every level. In the game there's an Easter egg.
+
+Easter Egg:
+
+In a zone of the level one if you shoot without stopping, it will start to appear PiPi
+
+![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Pipiru1.png)
+
+If you continue shooting without stopping Pipiru, the pet of Toaplan will appear on the map and start to bounce around.
+
+![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Pipiru2.png)
+
+![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Pipiru3.png)
+
+If you kill Pipiru
 
 Some curious mechanics, tricks and data:
 
