@@ -1,5 +1,5 @@
 # Narrative structure
-Taking place in the year 2097, mankind is invaded by an alien force from the planet Owagira, and it is up to cyborg soldiers controlled by the player to destroy the invasion force. A sequel, Fixeight, was developed in 1992. During the game we observe a plot evolution, the first levels are the entrance of the alien base and the last ones are the deepest parts of the base were all the alien bosses are.
+The plot of the game is: "Taking place in the year 2097, mankind is invaded by an alien force from the planet Owagira, and it is up to cyborg soldiers controlled by the player to destroy the invasion force." So Outzone is a game that follows an alien invasion and how a hero, our character, tries to save the world. During the game we observe a plot evolution, the first levels are the entrance of the alien base and the last ones are the deepest parts of the base were all the alien bosses are. The events are connected to each other in the way that when you go to another zone you observe how it becomes harder and the enemies seem dangerous and stronger. A sequel of Outzone, Fixeight, was developed in 1992. 
 # Analysis of each level
 -All the items and enemies that have been studied are from level 1 to level 3
 
