@@ -4,6 +4,7 @@ You cand find the [UI imatges](https://github.com/nicobabot/OutZone_AlchemistStu
 
 
 The opening and ending cutscene are only available in the japanese version.
+
 Translated: A.D. 2097. At last, humans can't control repeated invasions to the earth. As a last resort, the United Nations commissioned the strongest cyborg soldier to the legendary space death squad. 
 
 ![](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/UI/0000.png?raw=true)
