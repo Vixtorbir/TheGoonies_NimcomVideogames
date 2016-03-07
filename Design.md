@@ -14,7 +14,7 @@ The plot of the game is: "Taking place in the year 2097, mankind is invaded by a
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/PowerUp.gif)|Weapon Power Up|-|100|It empowers your weapons in general, that means that if you change between weapons, the new one will still be upgraded. There are two upgrade levels, meaning that weapons have a standard level and 2 more acquired by grabbing this power up.|2,3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Energy.gif)|Energy Power Up|-|-|It refills your energy bar completely|2,3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Bomb.gif)|Bomb|-|100/5000|It gives you an extra bomb, if you have the maximum amount (10) instead of giving a bomb gives 5000 points|2,3|
-||1 Up|-|100|If you grab it you gain one extra life|2,3|
+|![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/OneUp.png)|One Extra Life|-|100|If you grab it you gain one extra life|2,3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/Crate.gif)|Crate|2|210|If you break it, it spawns a random power up (generally change weapon or weapon power up)|2,3|
 |![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Design/MOBS/EnergyCrate.gif)|Energy Crate|1|-|If you break it, it spawns an energy power up|2,3|
 ### Level 2
