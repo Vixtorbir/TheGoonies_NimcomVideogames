@@ -4,7 +4,7 @@
 _Nimcom Studio logo_
 
 ## Game Title
-![]([https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/OutZone_Sprites/menu/title/6.png](https://retroworld.canell.dk/wp-content/uploads/2014/03/msx_goonies-loader_thumb.png))
+![](https://retroworld.canell.dk/wp-content/uploads/2014/03/msx_goonies-loader_thumb.png)
 
 The Goonies
 
@@ -18,7 +18,7 @@ A number of power-ups can be picked up. Various helmets and jackets prevent Slot
 
 Enemies include booby traps (falling boulders), environmental hazards (waterfalls, dripping water, falling rocks), and traditional enemies (skeletal heads, bats, and the Fratelli Gang).
 
-![]([https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Welcome%20Page/11291.jpg](https://i.ytimg.com/vi/UAR45WMaztY/hqdefault.jpg))
+![](https://i.ytimg.com/vi/UAR45WMaztY/hqdefault.jpg)
 
 ### **Members**
 
