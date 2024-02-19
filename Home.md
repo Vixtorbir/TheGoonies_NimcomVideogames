@@ -1,40 +1,36 @@
-# Alchemist Studio Project 1: Out Zone
+# Nimcom Studio Project 1: The Goonies
 
-![Alchemist Studio logo](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/Logo/OutZoneLogo.jpg?raw=true)
-_Alchemist Studio logo_
+![Nimcom Studio logo](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/Logo/OutZoneLogo.jpg?raw=true)
+_Nimcom Studio logo_
 
 ## Game Title
-![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/OutZone_Sprites/menu/title/6.png)
+![]([https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/OutZone_Sprites/menu/title/6.png](https://retroworld.canell.dk/wp-content/uploads/2014/03/msx_goonies-loader_thumb.png))
 
-Out Zone
+The Goonies
 
 ## Game Description
 
-Outzone is a shoot'em up game developed by Toaplan in 1990 with seven levels of vertical scrolling, containing many different enemies and a boss at the end of each level, when it is defeated, you can advance to the next level, with difficulty increased. 
+The Goonies is a 1986 platform video game based on the film of the same name, developed and produced by Konami for the Sony MSX. It was only released in Japan and Europe. 
 
-The plot happens in 2097, mankind is invaded by an alien force from the planet Owagira, and it is up to cyborg soldiers to destroy the invasion force.
+The game features a longer level layout and designs more akin to a Metroidvania. To progress, the player must find hidden keys that opens locked gates. The Goonies features five levels in all, the theme of which staying the same "underground maze" through the whole game.
 
-The game is endless, when you finish the game, it restarts to the first stage with increased difficulty, so the game allow the player to keep playing until he die, repeating over and over again the seven stages.
+A number of power-ups can be picked up. Various helmets and jackets prevent Sloth from taking damage from the elements; spellbooks can increase his movement speed; treasure bags will give bonus score or power-ups to the player's vitality or experience bars.
 
-![](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Welcome%20Page/11291.jpg)
+Enemies include booby traps (falling boulders), environmental hazards (waterfalls, dripping water, falling rocks), and traditional enemies (skeletal heads, bats, and the Fratelli Gang).
+
+![]([https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/Welcome%20Page/11291.jpg](https://i.ytimg.com/vi/UAR45WMaztY/hqdefault.jpg))
 
 ### **Members**
 
-_Sergio Alvarez's Github account and responsability_
-* Design/QA.
-* Github: [Sergio111](https://github.com/Sergio111).
+_Víctor Cardenas Github account and responsability_
+* Design/Code.
+* Github: [Vixtorbir](https://github.com/Sergio111).
 
-_Nicolas Babot's Github account and responsability_
-* Management.
-* Github: [nicobabot](https://github.com/nicobabot).
+_Xavier Macias Github account and responsability_
+* Design/Code.
+* Github: [xavimacias365](https://github.com/nicobabot).
 
-_Xavier Olivenza's Github account and responsability_
-* Code.
-* Github: [xavierolivenza](https://github.com/xavierolivenza).
 
-_Daniel Olondriz's Github account and responsability_
-* Art.
-* Github:[TheDriXx](https://github.com/danielolondriz).
 
 
 ### Index
