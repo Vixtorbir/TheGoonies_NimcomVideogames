@@ -24,11 +24,11 @@ Enemies include booby traps (falling boulders), environmental hazards (waterfall
 
 _Víctor Cardenas Github account and responsability_
 * Design/Code.
-* Github: [Vixtorbir](https://github.com/Sergio111).
+* Github: [Vixtorbir](https://github.com/Vixtorbir).
 
 _Xavier Macias Github account and responsability_
 * Design/Code.
-* Github: [xavimacias365](https://github.com/nicobabot).
+* Github: [xavimacias365](https://github.com/xavimacias365).
 
 
 
