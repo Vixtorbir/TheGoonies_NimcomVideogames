@@ -34,7 +34,7 @@ _Xavier Macias Github account and responsability_
 
 
 ### Index
-* [General Analysis](https://github.com/nicobabot/OutZone_AlchemistStudio/wiki/General-Analysis)
+* [General Analysis](https://github.com/Vixtorbir/prueba/blob/master/General-Analysis.md)
 * [Design](https://github.com/nicobabot/OutZone_AlchemistStudio/wiki/Design)
 * [UI](https://github.com/nicobabot/OutZone_AlchemistStudio/wiki/UI)
 * [Audio](https://github.com/nicobabot/OutZone_AlchemistStudio/wiki/Audio)
