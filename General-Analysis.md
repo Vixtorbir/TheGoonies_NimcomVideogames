@@ -1,6 +1,6 @@
-![Outzone cabinet sign](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/General%20Analysis/1181242142240.png)
+![The Goonies cover](https://upload.wikimedia.org/wikipedia/en/e/ec/The_Goonies_MSX.jpg)
 
-_Outzone cabinet sign_
+_The Goonies cover_
 # Genre
 Out Zone is a shoot’em up game, a genre where the player engages in a lone assault, often in a spacecraft or aircraft, shooting large numbers of enemies while dodging their attacks. This genre requires fast reactions and memorize levels and enemy attack patterns. Some games of this genre have Bullet hell moments or are Bullet hell games, Bullet hell is a genre where the player have a huge amount of enemy projectiles to avoid.
 
@@ -31,19 +31,9 @@ Out Zone is a run and gun arcade game with vertical scrolling where the player m
 This game had a sequel, Fixeight in 1992.
 
 
-## Outzone links to information/images
-[DIP Switch](http://outzone.meodai.ch/images/medias/OutZone_Dip_Swicth.txt)
+## The Goonies links to information/images
+[The Goonies Wiki](https://goonies.fandom.com/wiki/The_Goonies_(MSX))
 
-[American Flyer](http://outzone.meodai.ch/images/medias/flyer_romstar.jpg)
 
-[Japanese Flyer](http://outzone.meodai.ch/images/medias/flyer.png)
 
-[US Cabinet Sticker](http://outzone.meodai.ch/images/medias/marquee_us.jpg)
 
-[US Romstar Manual](http://outzone.meodai.ch/images/medias/OutZone.man.pdf)
-
-[US Instructions Sticker 1](http://outzone.meodai.ch/images/medias/OutZone-s.tif)
-
-[US Instructions Sticker 2](http://outzone.meodai.ch/images/medias/Outzone-i.tif)
-
-_Links from this [web](http://outzone.meodai.ch)._
