@@ -2,7 +2,7 @@
 
 _The Goonies cover_
 # Genre
-Out Zone is a shoot’em up game, a genre where the player engages in a lone assault, often in a spacecraft or aircraft, shooting large numbers of enemies while dodging their attacks. This genre requires fast reactions and memorize levels and enemy attack patterns. Some games of this genre have Bullet hell moments or are Bullet hell games, Bullet hell is a genre where the player have a huge amount of enemy projectiles to avoid.
+A title of adventure and platforming with a variety of items, enemies through a labyrinthine mapped area in which we will have to rescue our friends. Unlike the arcade or NES version, the proposal of the MSX version puts us in the shoes of Sloth, whose mission is to rescue the Goonies who have been captured by the Fratellis, a trio of dangerous mafia members.
 
 ![Cave shmups](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/General%20Analysis/deathsmiles_2.jpg)
 _Cave shmups screenshot, this is a Bullet hell game_
