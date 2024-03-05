@@ -17,7 +17,7 @@ Platformers were popular throughout the 1980s and early 1990s.
 The Goonies is a game that combine the platformer and adventure genres, The adventure platformer genre combines platforming gameplay with narrative-driven exploration and puzzle-solving. Players traverse diverse environments, uncover secrets, and solve puzzles while progressing through a cohesive storyline.
 
 # History
-![Konami Logo]((https://static.wikia.nocookie.net/logopedia/images/d/dc/Konami_1986.svg/revision/latest/scale-to-width-down/200?cb=20200918174108&path-prefix=es))
+![Konami Logo](https://static.wikia.nocookie.net/logopedia/images/d/dc/Konami_1986.svg/revision/latest/scale-to-width-down/200?cb=20200918174108&path-prefix=es)
 
 _Konami 1986 Logo_
 
