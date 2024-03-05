@@ -4,31 +4,32 @@ _The Goonies cover_
 # Genre
 A title of adventure and platforming with a variety of items, enemies through a labyrinthine mapped area in which we will have to rescue our friends. Unlike the arcade or NES version, the proposal of the MSX version puts us in the shoes of Sloth, whose mission is to rescue the Goonies who have been captured by the Fratellis, a trio of dangerous mafia members.
 
-![Cave shmups](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/General%20Analysis/deathsmiles_2.jpg)
-_Cave shmups screenshot, this is a Bullet hell game_
+![Super Mario Bros](https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_SuperMarioBros_image1600w.jpg)
+_Super Mario Bros screenshot, this is a platformer game_
 
-The first game of this genre is Spacewar, developed in 1961, but is generally credited that Space Invaders, developed in 1978, was the start of the genre.
+It shares similarities with other platforming adventure games of the era, such as "Super Mario Bros." and "Alex Kidd in Miracle World."
 
-![Spacewar](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/General%20Analysis/250px-Spacewar1.png)
+![Alex Kidd in Miracle World](https://www.retrobros.es/wp-content/uploads/2015/04/alex-1.png)
 
-_Spacewar screenshot_
+_Alex Kidd in Miracle World screenshot_
 
-Shoot 'em ups were popular throughout the 1980s and early 1990s. In the mid-1990s, shoot 'em ups became a common genre.
-Between all the shoot’em ups subgenres, Out Zone is a Run and Gun (or “run ‘n’ gun”), it’s a genre where the player fights on foot, perhaps with the ability to jump. In this genre you can have horizontal, vertical scrolling or isometric viewpoints and may feature multidirectional movement.
+Platformers were popular throughout the 1980s and early 1990s.
+The Goonies is a game that combine the platformer and adventure genres, The adventure platformer genre combines platforming gameplay with narrative-driven exploration and puzzle-solving. Players traverse diverse environments, uncover secrets, and solve puzzles while progressing through a cohesive storyline.
+
 # History
-![Toaplan Logo](https://raw.githubusercontent.com/nicobabot/OutZone_AlchemistStudio/master/Wiki%20material/General%20Analysis/toaplan.png)
+![Konami Logo]((https://static.wikia.nocookie.net/logopedia/images/d/dc/Konami_1986.svg/revision/latest/scale-to-width-down/200?cb=20200918174108&path-prefix=es))
 
-_Toaplan Logo_
+_Konami 1986 Logo_
 
-Out Zone is an arcade game developed by Toaplan and published by Romstar in 1990. Out Zone used an Upright cabinet with controls for 2 players, a Motorola 68000(10MHz) or a Zilog Z80(3,5MHz) CPU, A Yamaha YM3812(3,5MHz) sound chip and a raster resolution of 240x320(horizontal*vertical). Music was composed by Tatsuya Uemura.
+The Goonies is an msx game developed by Konami in 1986. The Goonies was developed to run on the MSX platform, which typically had Z80-based CPUs and varying graphics capabilities. The original resolution of MSX games was typically low, often around 256x192 pixels.
 
-![Cabinet](https://github.com/nicobabot/OutZone_AlchemistStudio/blob/master/Wiki%20material/General%20Analysis/1187648210.jpg)
+![msx](https://upload.wikimedia.org/wikipedia/commons/9/95/MSX-Logo.svg)
 
-_Out Zone Upright cabinet_
+_msx Logo_
 
-Out Zone is a run and gun arcade game with vertical scrolling where the player must fight on foot through seven levels with a boss at the end of each one. To defeat the enemies, the player can use the standard weapons, one of single shot and the other with triple shot, he can switch between them with the ‘C’ pick up, or the special ones, taking the ‘SP’ colored icons, the super burner, a flame thrower, or the super ball, a ball which spins around the character and also can shoot them. The other special bonuses are the 1UP, speed up, shield and energy extend.
+"The Goonies" is a platform adventure game where along the way we will find various objects that are part of the original movie "The Goonies" by Richard Donner, which will help us during the game's progress. Players must explore a series of maze-like scenarios and free seven Goonies while fighting enemies.
 
-This game had a sequel, Fixeight in 1992.
+This game has several variants, with the latest being a remake made for its 10th anniversary.
 
 
 ## The Goonies links to information/images
