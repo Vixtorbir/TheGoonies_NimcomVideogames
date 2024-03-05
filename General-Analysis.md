@@ -29,7 +29,7 @@ _msx Logo_
 
 "The Goonies" is a platform adventure game where along the way we will find various objects that are part of the original movie "The Goonies" by Richard Donner, which will help us during the game's progress. Players must explore a series of maze-like scenarios and free seven Goonies while fighting enemies.
 
-This game has several variants, with the latest being a remake made for its 10th anniversary.
+This game has several variants, with the latest being a remake made for its 20th anniversary.
 
 
 ## The Goonies links to information/images
