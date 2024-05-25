@@ -80,6 +80,18 @@ void TileMap::InitTileDictionary()
 	dict_rect[(int)Tile::HALF_COLUMN_BOTTOM_L] = { 6 * n, 3 * n, -n, n };
 	dict_rect[(int)Tile::HALF_COLUMN_BOTTOM_WITHOUT] = { 5 * n, 3 * n, n, n };
 
+	dict_rect[(int)Tile::DOOR_TOP_LEFT] = { 6 * n, 5 * n, n, n };
+	dict_rect[(int)Tile::DOOR_MID_LEFT] = { 6 * n, 6 * n, n, n };
+	dict_rect[(int)Tile::DOOR_BOTTOM_LEFT] = { 6 * n, 7 * n, n, n };
+	dict_rect[(int)Tile::DOOR_TOP_MID] = { 7 * n, 5 * n, n, n };
+	dict_rect[(int)Tile::DOOR_MID_MID] = { 7 * n, 6 * n, n, n };
+	dict_rect[(int)Tile::DOOR_BOTTOM_MID] = { 7 * n, 7 * n, n, n };
+	dict_rect[(int)Tile::DOOR_TOP_RIGHT] = { 8 * n, 5 * n, n, n };
+	dict_rect[(int)Tile::DOOR_MID_RIGHT] = { 8 * n, 6 * n, n, n };
+	dict_rect[(int)Tile::DOOR_BOTTOM_RIGHT] = { 8 * n, 7 * n, n, n };
+
+	
+
 	dict_rect[(int)Tile::WATER_L] = { 0, 3 * n, n, n };
 	dict_rect[(int)Tile::WATER_R] = { 1 * n, 3 * n, n, n };
 

@@ -77,6 +77,11 @@ void Enemy::DrawDebug(const Color& col) const
     DrawPixel(pos.x, pos.y, WHITE);
 }
 
+int Enemy::EXPPoints() const
+{
+    return 20;
+}
+
 void Enemy::Move()
 {
     AABB box;

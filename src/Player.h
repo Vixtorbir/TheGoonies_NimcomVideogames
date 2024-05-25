@@ -57,18 +57,26 @@ public:
 	AppStatus Initialise();
 	void SetTileMap(TileMap* tilemap);
 
+
+
 	void InitScore();
 	void IncrScore(int n);
 	int GetScore();
+	void setKey(bool data);
+	bool HasKey();
 	void InitLives();
 	void DecrLives();
+	void IncrLives(int n);
 	int GetLives();
+	void InitExp();
+	void IncrExp(int n);
+	int GetExp();
 
 	void Update();
 	void DrawDebug(const Color& col) const;
 	void Release();
 
-private:
+
 	bool IsLookingRight() const;
 	bool IsLookingLeft() const;
 
@@ -91,8 +99,12 @@ private:
 	void StartClimbingUp();
 	void StartClimbingDown();
 	void StartAttack();
+	AABB GetAttackHitbox() const;
+	
 	void ChangeAnimRight();
 	void ChangeAnimLeft();
+	State GetState();
+	
 
 	//Jump steps
 	bool IsAscending() const;
@@ -103,6 +115,8 @@ private:
 	bool IsInFirstHalfTile() const;
 	bool IsInSecondHalfTile() const;
 
+
+
 	State state;
 	Look look;
 	int jump_delay;
@@ -112,6 +126,13 @@ private:
 
 	int score;
 	int lives;
+	int exp;
+
+	bool hasKey = false;
+
+	AABB attackBox;
+
+
 
 	Sound sfxJump, sfxAttack;
 };

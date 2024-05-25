@@ -37,6 +37,8 @@ public:
 
     void DrawDebug(const Color& col) const;
 
+    int EXPPoints() const;
+
 private:
     // Mecánicas del enemigo
     void Move();

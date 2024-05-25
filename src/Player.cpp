@@ -102,6 +102,23 @@ int Player::GetScore()
 {
 	return score;
 }
+
+void Player::setKey(bool data)
+{
+	hasKey = data;
+}
+
+bool Player::HasKey()
+{
+	if (hasKey == true)
+	{
+		return true;
+	}
+	else
+	{
+		return false;
+	}
+}
 void Player::InitLives()
 {
 	lives = 1;
@@ -111,9 +128,25 @@ void Player::DecrLives()
 	lives = lives - 1;
 	if (lives < 0) lives = 0;
 }
+void Player::IncrLives(int n)
+{
+	lives += n;
+}
 int Player::GetLives()
 {
 	return lives;
+}
+void Player::InitExp()
+{
+	exp = 0;
+}
+void Player::IncrExp(int n)
+{
+	exp += n;
+}
+int Player::GetExp()
+{
+	return exp;
 }
 void Player::SetTileMap(TileMap* tilemap)
 {
@@ -218,6 +251,23 @@ void Player::StartAttack() {
 	attackDuration = 10; 
 }
 
+AABB Player::GetAttackHitbox() const
+{
+	// Calcular la posición de la hitbox de ataque
+	float attack_x = pos.x + (IsLookingRight() ? width : -width);
+	float attack_y = pos.y;
+
+	// Las dimensiones de la hitbox de ataque pueden variar según el diseño del juego
+	// Por ahora, asumiremos que es igual a las dimensiones del personaje
+	float attack_width = width;
+	float attack_height = height;
+
+	// Crear y devolver la hitbox de ataque
+	Point p(attack_x, attack_y - (attack_height - 1));
+	AABB attack_hitbox(p, attack_width, attack_height);
+	return attack_hitbox;
+}
+
 void Player::LogicAttack() {
 	
 	attackDuration--;
@@ -250,6 +300,10 @@ void Player::ChangeAnimLeft()
 	case State::JUMPING: SetAnimation((int)PlayerAnim::JUMPING_LEFT); break;
 	case State::FALLING: SetAnimation((int)PlayerAnim::FALLING_LEFT); break;
 	}
+}
+State Player::GetState()
+{
+	return State();
 }
 void Player::Update()
 {
