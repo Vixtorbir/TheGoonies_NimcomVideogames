@@ -11,6 +11,7 @@ enum class Resource {
     IMG_PLAYER, 
     IMG_ENEMY,
     IMG_TILES,
+    IMG_TILES_2,
     IMG_ITEMS,
     IMG_YOU_WIN,
     IMG_YOU_LOSE

@@ -166,6 +166,21 @@ AppStatus Game::Update()
     //Check if user attempts to close the window, either by clicking the close button or by pressing Alt+F4
     if(WindowShouldClose()) return AppStatus::QUIT;
 
+    if (fade_transition.IsActive())
+    {
+        GameState prev_frame = state;
+        state = fade_transition.Update();
+
+        //Begin play and finish play are delayed due to the fading transition effect
+        if (prev_frame == GameState::MAIN_MENU && state == GameState::PLAYING)
+        {
+            if (BeginPlay() != AppStatus::OK) return AppStatus::ERROR;
+        }
+        else if (prev_frame == GameState::PLAYING && state == GameState::MAIN_MENU)
+        {
+            FinishPlay();
+        }
+    }
     switch (state)
     {
         case GameState::STAR_MENU: 
@@ -179,8 +194,8 @@ AppStatus Game::Update()
             if (IsKeyPressed(KEY_ESCAPE)) state = GameState::STAR_MENU;
             if (IsKeyPressed(KEY_SPACE))
             {
-                if(BeginPlay() != AppStatus::OK) return AppStatus::ERROR;
-                state = GameState::PLAYING;
+               // state = GameState::PLAYING;
+                fade_transition.Set(GameState::MAIN_MENU, 60, GameState::PLAYING, 60, dst);
             }
             break;
 
@@ -206,6 +221,7 @@ AppStatus Game::Update()
             {
                 FinishPlay();
                 state = GameState::MAIN_MENU;
+                
             }
             else if (scene->youWin)
             {
@@ -276,6 +292,7 @@ void Game::Render()
     //Draw render texture to screen, properly scaled
     BeginDrawing();
     DrawTexturePro(target.texture, src, dst, { 0, 0 }, 0.0f, WHITE);
+    if (fade_transition.IsActive()) fade_transition.Render();
     EndDrawing();
 }
 void Game::Cleanup()

@@ -15,6 +15,7 @@ public:
 
 	void SetPos(const Point& p);
 	int GetY() const { return pos.y; }
+	int GetX() const { return pos.x; }
 	void Update();
 	AABB GetHitbox() const;
 
@@ -30,6 +31,10 @@ public:
 	bool NextLevel() const;
 
 	bool PrevLevel() const;
+
+	bool NextLevelY() const;
+
+	bool PrevLevelY() const;
 
 protected:
 	Point GetRenderingPosition() const;

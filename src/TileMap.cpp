@@ -94,8 +94,82 @@ void TileMap::InitTileDictionary()
 
 	dict_rect[(int)Tile::WATER_L] = { 0, 3 * n, n, n };
 	dict_rect[(int)Tile::WATER_R] = { 1 * n, 3 * n, n, n };
+	dict_rect[(int)Tile::LAVA_L] = { 2*n, 3 * n, n, n };
+	dict_rect[(int)Tile::LAVA_R] = { 3 * n, 3 * n, n, n };
+
+	dict_rect[(int)Tile::BLANCO] = { 0, 6 * n, n, n };
+	dict_rect[(int)Tile::V] = { 9* n, 2 * n, n, n };
+	dict_rect[(int)Tile::I] = { 10 * n,2 * n, n, n };
+	dict_rect[(int)Tile::T] = { 11 * n, 2 * n, n, n };
+	dict_rect[(int)Tile::E] = { 9 * n, 3 * n, n, n };
+	dict_rect[(int)Tile::X] = { 10 * n,3 * n, n, n };
+	dict_rect[(int)Tile::P] = { 11 * n, 3 * n, n, n };
+	dict_rect[(int)Tile::PRIMERA_COLUMNA_SIN_LEFT] = { 19 * n, 0, n, n };
+	dict_rect[(int)Tile::SEGUNDA_COLUMNA_SIN_LEFT] = { 19 * n, 1 * n, n, n };
+	dict_rect[(int)Tile::TERCERA_COLUMNA_SIN_LEFT] = { 19 * n, 2 * n, n, n };
+	dict_rect[(int)Tile::CUARTA_COLUMNA_SIN_LEFT] = { 19 * n, 3 * n, n, n };
+	dict_rect[(int)Tile::ULTIMA_COLUMNA_CON] = { 18 * n, 7 * n, n, n };
+	dict_rect[(int)Tile::PRIMERA_COLUMNA_SIN_RIGHT] = { 19 * n, 0, -n, n };
+	dict_rect[(int)Tile::SEGUNDA_COLUMNA_SIN_RIGHT] = { 19 * n, 1 * n, -n, n };
+	dict_rect[(int)Tile::TERCERA_COLUMNA_SIN_RIGHT] = { 19 * n, 2 * n, -n, n };
+	dict_rect[(int)Tile::CUARTA_COLUMNA_SIN_RIGHT] = { 19 * n, 3 * n, -n, n };
+	dict_rect[(int)Tile::ULTIMA_COLUMNA_CON_RIGHT] = { 18 * n, 7 * n, -n, n };
+	dict_rect[(int)Tile::CON_1_ARRIBA] = { 24 * n, 0, n, n };
+	dict_rect[(int)Tile::CON_2_ARRIBA] = { 27 * n, 0, n, n };
+	dict_rect[(int)Tile::CON_3_ARRIBA] = { 25 * n, 0, n, n };
+	dict_rect[(int)Tile::CON_4_ARRIBA] = { 26 * n, 0, n, n };
+	dict_rect[(int)Tile::CON_1_ABAJO] = { 24 * n, 1 * n, n, n };
+	dict_rect[(int)Tile::CON_2_ABAJO] = { 27 * n, 1 * n, n, n };
+	dict_rect[(int)Tile::CON_3_ABAJO] = { 25 * n, 1 * n, n, n };
+	dict_rect[(int)Tile::CON_4_ABAJO] = { 26 * n, 1 * n, n, n };
+	dict_rect[(int)Tile::SIN_1] = { 23 * n, 0, n, n };
+	dict_rect[(int)Tile::SIN_2] = {22 * n, 0, n, n};
+	dict_rect[(int)Tile::SIN_3] = { 20 * n, 0, n, n };
+	dict_rect[(int)Tile::SIN_4] = { 21 * n, 0, n, n };
+	dict_rect[(int)Tile::PRIMERA_COLUMNA_CON_LEFT_ARRIBA] = { 15 * n, 0, n, n };
+	dict_rect[(int)Tile::PRIMERA_COLUMNA_CON_LEFT_ABAJO] = { 15 * n, 1 * n,- n, n };
+	dict_rect[(int)Tile::PRIMERA_COLUMNA_CON_RIGHT_ARRIBA] = { 15 * n, 0, - n, n };
+	dict_rect[(int)Tile::PRIMERA_COLUMNA_CON_RIGHT_ABAJO] = { 15 * n, 1 * n, n, n };
+	dict_rect[(int)Tile::LADDER_TOP_AZUL] = { 14 * n, 2 * n , n, n };
+	dict_rect[(int)Tile::LADDER_BOTTOM_AZUL] = { 14 * n, 3 * n , n, n };
+	dict_rect[(int)Tile::PRIMERA_ROCA_ARRIBA] = {16*n, 0, n, n };
+	dict_rect[(int)Tile::PRIMERA_ROCA_ABAJO] = { 16 * n, 1 * n, n, n };
+	dict_rect[(int)Tile::SEGUNDA_ROCA_ARRIBA] = { 17 * n, 0, n, n };
+	dict_rect[(int)Tile::SEGUNDA_ROCA_ABAJO] = { 17 * n, 1 * n, n, n };
 
 
+	dict_rect[(int)Tile::PRIMERA_ROCA_ARRIBA_VERDE] = { 22 * n, 2 * n, n, n };
+	dict_rect[(int)Tile::PRIMERA_ROCA_ABAJO_VERDE] = { 22 * n, 3 * n, n, n };
+	dict_rect[(int)Tile::SEGUNDA_ROCA_ARRIBA_VERDE] = { 23 * n, 2 * n, n, n };
+	dict_rect[(int)Tile::SEGUNDA_ROCA_ABAJO_VERDE] = { 23 * n, 3 * n, n, n };
+	dict_rect[(int)Tile::PRIMERA_COLUMNA_SIN_LEFT_VERDE] = { 17 * n, 2 * n, n, n };
+	dict_rect[(int)Tile::SEGUNDA_COLUMNA_SIN_LEFT_VERDE] = { 17 * n, 3 * n, n, n };
+	dict_rect[(int)Tile::TERCERA_COLUMNA_SIN_LEFT_VERDE] = { 17 * n, 4 * n, n, n };
+	dict_rect[(int)Tile::CUARTA_COLUMNA_SIN_LEFT_VERDE] = { 17 * n, 5 * n, n, n };
+	dict_rect[(int)Tile::PRIMERA_COLUMNA_CON_LEFT_ARRIBA_VERDE] = { 21 * n, 1 * n, n, n };
+	dict_rect[(int)Tile::PRIMERA_COLUMNA_CON_LEFT_ABAJO_VERDE] = { 21 * n, 2 * n, -n, n };
+	dict_rect[(int)Tile::PRIMERA_COLUMNA_CON_RIGHT_ARRIBA_VERDE] = { 21 * n, 1 * n, -n, n };
+	dict_rect[(int)Tile::PRIMERA_COLUMNA_CON_RIGHT_ABAJO_VERDE] = { 21 * n, 2 * n, n, n };
+	dict_rect[(int)Tile::ULTIMA_COLUMNA_CON_VERDE] = { 20 * n, 5 * n, -n, n };
+	dict_rect[(int)Tile::ULTIMA_COLUMNA_CON_RIGHT_VERDE] = { 20 * n, 5 * n, n, n };
+	dict_rect[(int)Tile::CON_1_ARRIBA_VERDE] = { 24 * n, 2 * n, n, n };
+	dict_rect[(int)Tile::CON_2_ARRIBA_VERDE] = { 27 * n, 2 * n, n, n };
+	dict_rect[(int)Tile::CON_3_ARRIBA_VERDE] = { 25 * n, 2 * n, n, n };
+	dict_rect[(int)Tile::CON_4_ARRIBA_VERDE] = { 26 * n, 2 * n, n, n };
+	dict_rect[(int)Tile::CON_1_ABAJO_VERDE] = { 24 * n, 3 * n, n, n };
+	dict_rect[(int)Tile::CON_2_ABAJO_VERDE] = { 27 * n, 3 * n, n, n };
+	dict_rect[(int)Tile::CON_3_ABAJO_VERDE] = { 25 * n, 3 * n, n, n };
+	dict_rect[(int)Tile::CON_4_ABAJO_VERDE] = { 26 * n, 3 * n, n, n };
+	dict_rect[(int)Tile::SIN_1_VERDE] = { 23 * n, 1 * n, n, n };
+	dict_rect[(int)Tile::SIN_2_VERDE] = { 22 * n, 1 * n, n, n };
+	dict_rect[(int)Tile::SIN_3_VERDE] = { 20 * n, 6 * n, n, n };
+	dict_rect[(int)Tile::SIN_4_VERDE] = { 21 * n, 6 * n, n, n };
+	dict_rect[(int)Tile::LADDER_TOP_VERDE] = { 15 * n, 2 * n, n, n };
+	dict_rect[(int)Tile::LADDER_BOTTOM_VERDE] = { 15 * n, 3 * n, n, n };
+	dict_rect[(int)Tile::PRIMERA_COLUMNA_SIN_RIGHT_VERDE] = { 17 * n, 2 * n,- n, n };
+	dict_rect[(int)Tile::SEGUNDA_COLUMNA_SIN_RIGHT_VERDE] = { 17 * n, 3 * n,- n, n };
+	dict_rect[(int)Tile::TERCERA_COLUMNA_SIN_RIGHT_VERDE] = { 17 * n, 4 * n,- n, n };
+	dict_rect[(int)Tile::CUARTA_COLUMNA_SIN_RIGHT_VERDE] = { 17 * n, 5 * n,- n, n };
 
 }
 AppStatus TileMap::Initialise()
@@ -118,7 +192,6 @@ AppStatus TileMap::Initialise()
 	laser->SetAnimationDelay(0, ANIM_DELAY);
 	laser->AddKeyFrame(0, dict_rect[(int)Tile::LASER_FRAME0]);
 	laser->AddKeyFrame(0, dict_rect[(int)Tile::LASER_FRAME1]);
-	laser->AddKeyFrame(0, dict_rect[(int)Tile::LASER_FRAME2]);
 	laser->SetAnimation(0);
 
 	return AppStatus::OK;
@@ -157,16 +230,23 @@ Tile TileMap::GetTileIndex(int x, int y) const
 }
 bool TileMap::IsTileSolid(Tile tile) const
 {
-	return (Tile::SOLID_FIRST <= tile && tile <= Tile::SOLID_LAST);
+	return (Tile::SOLID_FIRST <= tile && tile <= Tile::SOLID_LAST || Tile::PRIMERA_COLUMNA_SIN_RIGHT <= tile && tile <= Tile::PRIMERA_COLUMNA_CON_RIGHT_ABAJO_VERDE);
 }
 bool TileMap::IsTileLadderTop(Tile tile) const
 {
-	return tile == Tile::LADDER_TOP;
+	return (tile == Tile::LADDER_TOP || tile == Tile::LADDER_TOP_AZUL || tile == Tile::LADDER_TOP_VERDE);
 }
 bool TileMap::IsTileLadder(Tile tile) const
 {
 	return tile == Tile::LADDER;
 }
+
+bool TileMap::IsTileDoor(Tile tile) const
+{
+return (tile == Tile::DOOR_MID_MID || tile == Tile::DOOR_BOTTOM_MID);
+}
+
+
 bool TileMap::TestCollisionWallLeft(const AABB& box) const
 {
 	return CollisionX(box.pos, box.height);
@@ -284,6 +364,31 @@ bool TileMap::TestOnLadderTop(const AABB& box, int* px) const
 	}
 	return false;
 }
+bool TileMap::TestOnDoor(const AABB& box, int* px) const
+{
+int left, right, bottom;
+	int tx1, tx2, ty;
+	Tile tile1;
+
+	//Control points
+	left = box.pos.x;
+	right = box.pos.x + box.width;
+	bottom = box.pos.y + box.height - 1;
+
+	//Calculate the tile coordinates
+	tx1 = left / TILE_SIZE;
+	tx2 = right / TILE_SIZE;
+	ty = bottom / TILE_SIZE;
+
+	//To be able to climb up or down, both control points must be on ladder
+	tile1 = GetTileIndex(tx1, ty);
+
+	if (IsTileDoor(tile1))
+	{
+		return true;
+	}
+	return false;
+}
 int TileMap::GetLadderCenterPos(int pixel_x, int pixel_y) const
 {
 	int tx, ty;
@@ -292,7 +397,7 @@ int TileMap::GetLadderCenterPos(int pixel_x, int pixel_y) const
 	ty = pixel_y / TILE_SIZE;
 	Tile tile = GetTileIndex(tx, ty);
 
-	if (tile == Tile::LADDER || tile == Tile::LADDER_TOP)		return tx * TILE_SIZE + TILE_SIZE;
+	if (tile == Tile::LADDER || tile == Tile::LADDER_TOP || tile == Tile::LADDER_TOP_AZUL || tile == Tile::LADDER_TOP_VERDE)		return tx * TILE_SIZE + TILE_SIZE;
 
 	else
 	{

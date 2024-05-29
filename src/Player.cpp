@@ -2,6 +2,7 @@
 #include "Sprite.h"
 #include "TileMap.h"
 #include "Globals.h"
+#include "Scene.h"
 #include <raymath.h>
 
 Player::Player(const Point& p, State s, Look view) :
@@ -119,9 +120,24 @@ bool Player::HasKey()
 		return false;
 	}
 }
+void Player::setSkullDoor(bool data)
+{
+	SkullDoor = data;
+}
+bool Player::HasSkullDoor()
+{
+	if (SkullDoor == true)
+	{
+		return true;
+	}
+	else
+	{
+		return false;
+	}
+}
 void Player::InitLives()
 {
-	lives = 1;
+	lives = 100;
 }
 void Player::DecrLives()
 {
@@ -138,7 +154,7 @@ int Player::GetLives()
 }
 void Player::InitExp()
 {
-	exp = 0;
+	exp = 1;
 }
 void Player::IncrExp(int n)
 {
@@ -402,6 +418,10 @@ void Player::MoveY()
 				box = GetHitbox();
 				if (map->TestOnLadder(box, &pos.x))
 					StartClimbingUp();
+				else if (map->TestOnDoor(box, &pos.x))
+				{
+					setSkullDoor(true);
+				}
 			}
 			else if (IsKeyDown(KEY_DOWN))
 			{
@@ -534,7 +554,7 @@ void Player::DrawDebug(const Color& col) const
 {
 	Entity::DrawHitbox(pos.x, pos.y, width, height, col);
 
-	DrawText(TextFormat("Position: (%d,%d)\nSize: %dx%d\nFrame: %dx%d", pos.x, pos.y, width, height, frame_width, frame_height), 18 * 16, 0, 8, LIGHTGRAY);
+	DrawText(TextFormat("Position: (%d,%d)\nSize: %dx%d\nFrame: %dx%d", pos.x, pos.y, width, height, frame_width, frame_height), 10, 10, 8, LIGHTGRAY);
 	DrawPixel(pos.x, pos.y, WHITE);
 }
 void Player::Release()

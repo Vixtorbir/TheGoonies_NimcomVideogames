@@ -81,3 +81,18 @@ bool Entity::PrevLevel() const
 	}
 	return false;
 }
+bool Entity::NextLevelY() const
+{
+	if (pos.y >= 196)
+	{
+		return true;
+	}
+	return false;
+}
+bool Entity::PrevLevelY() const
+{
+	if (pos.y < 23) {
+		return true;
+	}
+	return false;
+}

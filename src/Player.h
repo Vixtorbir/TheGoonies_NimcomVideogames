@@ -64,6 +64,8 @@ public:
 	int GetScore();
 	void setKey(bool data);
 	bool HasKey();
+	void setSkullDoor(bool data);
+	bool HasSkullDoor();
 	void InitLives();
 	void DecrLives();
 	void IncrLives(int n);
@@ -87,7 +89,6 @@ public:
 	void LogicClimbing();
 
 	void LogicAttack();
-
 	//Animation management
 	void SetAnimation(int id);
 	PlayerAnim GetAnimation();
@@ -130,9 +131,9 @@ public:
 
 	bool hasKey = false;
 
+	bool SkullDoor = false;
+
 	AABB attackBox;
-
-
 
 	Sound sfxJump, sfxAttack;
 };
