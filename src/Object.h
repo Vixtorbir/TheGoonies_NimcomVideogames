@@ -7,7 +7,7 @@
 #define POINTS_KEY	10
 #define POINTS_OBJECT	20
 
-enum class ObjectType { KEY, HELMET, EXP, PONER_LLAVE };
+enum class ObjectType { KEY, HELMET, EXP, PONER_LLAVE, SHOES };
 
 class Object : public Entity
 {

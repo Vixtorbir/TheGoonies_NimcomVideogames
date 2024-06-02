@@ -13,6 +13,7 @@ Object::Object(const Point& p, ObjectType t) : Entity(p, OBJECT_PHYSICAL_SIZE, O
 		case ObjectType::HELMET: rc = {1*n, 7*n, n, n}; break;
 		case ObjectType::EXP: rc = {2*n, 7*n, n, n}; break;
 		case ObjectType::PONER_LLAVE: rc = {3*n, 7*n, n, n}; break;
+		case ObjectType::SHOES: rc = { 1 * n, 7 * n, n, n }; break;
 
 		default: LOG("Internal error: object creation of invalid type");
 	}
@@ -32,6 +33,7 @@ int Object::Points() const
 	if (type == ObjectType::KEY)		return POINTS_KEY;
 	else if (type == ObjectType::HELMET)	return POINTS_OBJECT;
 	else if (type == ObjectType::EXP)	return POINTS_OBJECT;
+	else if (type == ObjectType::SHOES)	return POINTS_OBJECT;
 	else
 	{
 		LOG("Internal error: object type invalid when giving points");
@@ -53,8 +55,6 @@ ObjectType Object::GetID() const
 	else if (type == ObjectType::HELMET)	return ObjectType::HELMET;
 	else if (type == ObjectType::EXP)	return ObjectType::EXP;
 	else if (type == ObjectType::PONER_LLAVE)	return ObjectType::PONER_LLAVE;
-	
-	
-	
-	
+	else if (type == ObjectType::SHOES)	return ObjectType::SHOES;
+		
 }

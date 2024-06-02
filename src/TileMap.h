@@ -35,7 +35,7 @@ enum class Tile {
 	WATER_L = 120, WATER_R,LAVA_L,LAVA_R,
 	// 50 <= id < 100: special tiles
 
-	KEY = 130, OBJECT, EXP, PONER_LLAVE,
+	KEY = 130, HELMET, EXP, PONER_LLAVE,SHOES,
 	LASER = 140, LASER_FRAME0, LASER_FRAME1,LASER_FRAME2, BLANCO, V, I, T, E,X,P,
 
 	// id >= 100: entities' initial locations

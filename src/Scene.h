@@ -21,6 +21,8 @@ public:
     void Release();
     bool youWin = false;
     bool youLose = false;
+    bool Helmet = false;
+    bool Shoes = false;
     int currentStage = 0;
 
 private:
