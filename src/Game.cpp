@@ -42,13 +42,14 @@ Game::~Game()
 }
 AppStatus Game::Initialise(float scale)
 {
-    
+    int display = GetCurrentMonitor();
     float w, h;
     w = WINDOW_WIDTH * scale;
     h = WINDOW_HEIGHT * scale;
-
+    
     //Initialise window
     InitWindow((int)w, (int)h, "The Goonies");
+    ToggleFullscreen();
     
 
     //Render texture initialisation, used to hold the rendering result so we can easily resize it
